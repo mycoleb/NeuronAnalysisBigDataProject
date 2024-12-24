@@ -1,6 +1,9 @@
 
 # Neural Network Connectivity Analysis Project
 
+## Key info for anyone trying to use this!
+You need to be in the (brain_connectivity) environment for this to work.
+
 ## Executive Summary
 This project analyzes how different regions of the mouse brain are connected to each other using data from the Allen Brain Atlas. Understanding these connections is crucial for neuroscience research as it helps reveal:
 - How information flows through the brain
