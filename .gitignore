@@ -1,0 +1,4 @@
+__pycache__/
+allensdk-env/
+mouse_connectivity/
+*.json

@@ -1,0 +1,317 @@
+Region,Outgoing_Connections,Incoming_Connections,Total_Outgoing_Strength,Total_Incoming_Strength
+"Frontal pole, cerebral cortex",0,106,0.0,1.0167090909207057
+Primary motor area,230,107,2.5822037595153273,1.8647537815010389
+Secondary motor area,313,108,1.0999450921667466,2.212915227356345
+"Primary somatosensory area, nose",214,107,1.053544064049107,1.1717619283698484
+"Primary somatosensory area, barrel field",295,107,1.1352122065489563,1.0536060719260891
+"Primary somatosensory area, lower limb",250,107,0.9440866939361917,0.48553412265512297
+"Primary somatosensory area, mouth",270,107,1.2223616780507538,1.3918808254756205
+"Primary somatosensory area, upper limb",0,107,0.0,0.5691128646120329
+"Primary somatosensory area, trunk",0,107,0.0,0.6567722993909781
+"Primary somatosensory area, unassigned",0,106,0.0,0.8066288785460821
+Supplemental somatosensory area,280,108,2.7734706074490996,1.7858553284326715
+Gustatory areas,287,107,2.4787407959387293,2.3027891100789275
+Visceral area,310,106,14.49287872264762,2.0049363943067102
+Dorsal auditory area,276,107,1.011463846853092,0.9870580580941734
+Primary auditory area,161,107,1.6454432091939823,1.5299327328309136
+Posterior auditory area,189,102,2.02603455048779,1.5105713091333322
+Ventral auditory area,0,108,0.0,0.8413654642224417
+Anterolateral visual area,298,103,2.0716213272087316,1.2606403670661148
+Anteromedial visual area,310,104,2.3052132609234217,1.8302202703922141
+Lateral visual area,264,102,1.674818800414502,2.1086130221698722
+Primary visual area,316,107,2.5672009263127875,1.6141373949416353
+Posterolateral visual area,261,106,1.717959545893055,1.6458433306170017
+posteromedial visual area,315,106,3.2994968865364793,1.8752866722913473
+Laterointermediate area,201,101,1.108127952564085,1.763502423397783
+Postrhinal area,288,106,2.7991128824218032,1.796190040115987
+"Anterior cingulate area, dorsal part",310,107,1.8490691904918792,1.9736735541406074
+"Anterior cingulate area, ventral part",258,106,1.1618070535975122,1.8721369537298533
+Prelimbic area,315,106,9.027887702477745,1.9064622767371264
+Infralimbic area,0,103,0.0,2.155185420393433
+"Orbital area, lateral part",0,105,0.0,1.3205665942402063
+"Orbital area, medial part",306,107,3.85310518450785,1.9900557264383099
+"Orbital area, ventrolateral part",66,107,0.22608359231030578,1.8290590800516737
+"Agranular insular area, dorsal part",286,108,4.7387789621944805,2.1987380857532868
+"Agranular insular area, posterior part",143,106,0.6919890648765902,1.8779739334736665
+"Agranular insular area, ventral part",297,108,10.541502482383438,2.184871923359775
+"Retrosplenial area, lateral agranular part",299,106,2.0416455350111935,1.59794734218809
+"Retrosplenial area, dorsal part",267,108,0.6913605920676262,1.9189883238930476
+"Retrosplenial area, ventral part",308,107,1.7145749915817898,1.8409413414222062
+Anterior area,198,106,2.504950638151695,1.619323097082093
+Rostrolateral visual area,311,104,1.8350753622802531,1.4632789626221459
+Temporal association areas,0,106,0.0,1.7783171510178377
+Perirhinal area,0,106,0.0,1.2954258511310808
+Ectorhinal area,0,107,0.0,1.3824156010260267
+Main olfactory bulb,0,108,0.0,1.1231532835073066
+Accessory olfactory bulb,209,101,2.7077299458536737,0.7786295622225405
+Anterior olfactory nucleus,200,106,1.922400048290116,1.827694773263628
+Taenia tecta,248,108,2.1839291625529196,1.1527265262177722
+Dorsal peduncular area,248,107,1.736248725686423,1.6463780714920127
+Piriform area,274,108,3.774216225172864,1.2841203999809747
+Nucleus of the lateral olfactory tract,0,105,0.0,1.292685286321759
+"Cortical amygdalar area, anterior part",0,106,0.0,1.9620146733745856
+"Cortical amygdalar area, posterior part",217,107,3.4567776969965025,0.8753503650483234
+Piriform-amygdalar area,0,106,0.0,0.7627072881327785
+Postpiriform transition area,0,106,0.0,0.8439216862395648
+Field CA1,250,105,1.9928033003819066,1.6362606695090518
+Field CA2,0,95,0.0,1.0201106472785322
+Field CA3,239,104,2.242921025565018,1.5963865881545947
+Dentate gyrus,297,107,1.1042048015737296,1.9835378260178838
+Fasciola cinerea,0,91,0.0,0.3371798055396735
+Induseum griseum,0,107,0.0,1.33933745438651
+"Entorhinal area, lateral part",306,108,4.525261033885823,1.6567397941125324
+"Entorhinal area, medial part, dorsal zone",264,106,3.008847808313658,1.293769462733174
+Parasubiculum,0,106,0.0,0.7104895741899765
+Postsubiculum,0,106,0.0,1.049502742209448
+Presubiculum,0,104,0.0,0.7282691535618263
+Subiculum,313,107,5.940065208829694,1.5681072965731604
+Prosubiculum,0,106,0.0,1.1283191491046753
+Hippocampo-amygdalar transition area,0,104,0.0,0.3793829095921348
+Area prostriata,0,106,0.0,0.539323393868864
+Claustrum,0,99,0.0,2.3348314296678967
+"Endopiriform nucleus, dorsal part",0,103,0.0,1.2412732573554297
+"Endopiriform nucleus, ventral part",0,93,0.0,1.434677753603883
+Lateral amygdalar nucleus,0,96,0.0,0.989502391282851
+Basolateral amygdalar nucleus,0,89,0.0,2.024219236917579
+Basomedial amygdalar nucleus,308,94,5.987908859543252,2.2672320540338737
+Posterior amygdalar nucleus,0,97,0.0,0.9113068299306252
+Caudoputamen,308,106,2.8758229956023524,2.372028348236061
+Nucleus accumbens,316,98,8.05874020744169,2.4671888903355215
+Fundus of striatum,0,98,0.0,2.239677095334057
+Olfactory tubercle,0,107,0.0,1.419863977995251
+"Lateral septal nucleus, caudal (caudodorsal) part",0,98,0.0,0.5583887306430139
+"Lateral septal nucleus, rostral (rostroventral) part",0,100,0.0,1.2637794806031966
+"Lateral septal nucleus, ventral part",0,89,0.0,1.2007065631411806
+Septofimbrial nucleus,0,97,0.0,0.7272258591538585
+Septohippocampal nucleus,0,81,0.0,0.9681453454598002
+Anterior amygdalar area,309,100,10.132436634168476,2.4818669960355817
+Bed nucleus of the accessory olfactory tract,0,99,0.0,0.927822810164921
+Central amygdalar nucleus,313,97,6.600737582090639,2.8410738364726247
+Intercalated amygdalar nucleus,0,91,0.0,1.931417881565841
+Medial amygdalar nucleus,314,106,3.590278674668481,2.307800229759235
+"Globus pallidus, external segment",0,102,0.0,0.7367541128732554
+"Globus pallidus, internal segment",0,96,0.0,0.6461056791137896
+Substantia innominata,290,100,4.0189813003456845,2.6449841571584334
+Magnocellular nucleus,0,93,0.0,1.8407868272405272
+Medial septal nucleus,0,82,0.0,0.8949395239551882
+Diagonal band nucleus,0,106,0.0,1.3521315886351426
+Triangular nucleus of septum,232,101,0.766158514275589,0.6740201575704524
+Bed nuclei of the stria terminalis,304,98,5.306961917414137,1.9005675137586515
+Bed nucleus of the anterior commissure,0,68,0.0,1.9591126935542538
+Ventral anterior-lateral complex of the thalamus,0,92,0.0,1.1229071314256032
+Ventral medial nucleus of the thalamus,162,94,5.552215953094055,1.9957012413465398
+Ventral posterolateral nucleus of the thalamus,0,99,0.0,0.8703126133500385
+"Ventral posterolateral nucleus of the thalamus, parvicellular part",0,77,0.0,1.2891730089937374
+Ventral posteromedial nucleus of the thalamus,0,93,0.0,1.2577533572905228
+"Ventral posteromedial nucleus of the thalamus, parvicellular part",0,91,0.0,2.0869700547915824
+Posterior triangular thalamic nucleus,0,88,0.0,1.2019016242598355
+"Subparafascicular nucleus, magnocellular part",0,91,0.0,1.9366186539031307
+"Subparafascicular nucleus, parvicellular part",0,84,0.0,1.3059664263975472
+Subparafascicular area,0,89,0.0,1.9152531465434361
+Peripeduncular nucleus,0,89,0.0,0.9518521889545091
+Medial geniculate complex,234,107,1.5421767729830294,1.0279903376089992
+Dorsal part of the lateral geniculate complex,160,101,5.267521560364687,1.1523592845484514
+Lateral posterior nucleus of the thalamus,211,102,4.546126027634388,2.1102211834810083
+Posterior complex of the thalamus,222,92,0.3806418471074493,2.108160596200343
+Posterior limiting nucleus of the thalamus,0,90,0.0,1.6084930382606688
+Suprageniculate nucleus,279,101,6.811902209094284,1.305140863558712
+Anteroventral nucleus of thalamus,249,99,2.5167864453359687,1.305672154998881
+Anteromedial nucleus,299,80,9.46932991313704,2.2435033209057442
+Anterodorsal nucleus,0,96,0.0,1.0713138298716711
+Interanteromedial nucleus of the thalamus,0,70,0.0,2.0694169889841056
+Interanterodorsal nucleus of the thalamus,0,79,0.0,2.2824880978026543
+Lateral dorsal nucleus of thalamus,0,101,0.0,1.2499004253849701
+Intermediodorsal nucleus of the thalamus,0,80,0.0,2.1446776462115302
+Mediodorsal nucleus of thalamus,310,99,6.453498228804808,1.9785060387924502
+Submedial nucleus of the thalamus,0,89,0.0,2.2123214332535595
+Perireunensis nucleus,0,85,0.0,2.628805381568378
+Paraventricular nucleus of the thalamus,0,99,0.0,2.015151847063974
+Parataenial nucleus,0,90,0.0,2.5359643777945573
+Nucleus of reuniens,305,89,12.09089809917374,2.8091059032723225
+Xiphoid thalamic nucleus,0,74,0.0,2.0384355093937905
+Rhomboid nucleus,0,82,0.0,1.9722415267960145
+Central medial nucleus of the thalamus,0,81,0.0,2.298164925350789
+Paracentral nucleus,0,84,0.0,2.159660489254276
+Central lateral nucleus of the thalamus,0,101,0.0,1.1864823088865049
+Parafascicular nucleus,0,97,0.0,1.1044821910166784
+Posterior intralaminar thalamic nucleus,0,85,0.0,1.3531247188506208
+Reticular nucleus of the thalamus,0,102,0.0,2.4236883534778024
+Intergeniculate leaflet of the lateral geniculate complex,0,89,0.0,0.5389109494663984
+Intermediate geniculate nucleus,0,74,0.0,0.6482185956191804
+Ventral part of the lateral geniculate complex,313,104,5.044268794333191,1.0000161126695206
+Subgeniculate nucleus,0,69,0.0,0.5143860534624287
+Medial habenula,0,99,0.0,0.5251784613813888
+Lateral habenula,0,94,0.0,0.9954219861669709
+Supraoptic nucleus,0,91,0.0,1.0908368671564947
+Accessory supraoptic group,0,48,0.0,1.2034952974957696
+Paraventricular hypothalamic nucleus,302,86,1.8362175013384014,2.1051470045764917
+"Periventricular hypothalamic nucleus, anterior part",0,70,0.0,0.8926857831332847
+"Periventricular hypothalamic nucleus, intermediate part",0,95,0.0,1.4888771272455539
+Arcuate hypothalamic nucleus,308,101,3.4962867354352176,1.0183306017297957
+Anterodorsal preoptic nucleus,0,60,0.0,0.9850562955920147
+Anteroventral preoptic nucleus,0,70,0.0,1.005544602086067
+Anteroventral periventricular nucleus,0,98,0.0,0.8105101810190929
+Dorsomedial nucleus of the hypothalamus,0,83,0.0,1.881018574454299
+Median preoptic nucleus,0,85,0.0,0.9210009991353681
+Medial preoptic area,0,84,0.0,1.3566595346044816
+Vascular organ of the lamina terminalis,0,83,0.0,0.1908411353651268
+Posterodorsal preoptic nucleus,0,46,0.0,0.8862574508293483
+Parastrial nucleus,0,55,0.0,1.2387987772139846
+"Periventricular hypothalamic nucleus, posterior part",0,100,0.0,1.1572808950467344
+"Periventricular hypothalamic nucleus, preoptic part",0,90,0.0,0.7211535513976787
+Subparaventricular zone,0,62,0.0,1.267218260332892
+Suprachiasmatic nucleus,0,65,0.0,0.6389440349514656
+Subfornical organ,0,91,0.0,0.25119080222266665
+Ventromedial preoptic nucleus,0,74,0.0,0.8411258785812269
+Ventrolateral preoptic nucleus,0,101,0.0,1.039871474171694
+Anterior hypothalamic nucleus,315,83,13.094716884613215,1.6024780423062335
+Lateral mammillary nucleus,0,101,0.0,0.8904425996230714
+Medial mammillary nucleus,0,105,0.0,0.9416735196856314
+Supramammillary nucleus,0,106,0.0,2.052987438869717
+"Tuberomammillary nucleus, dorsal part",0,80,0.0,1.1969148425508798
+"Tuberomammillary nucleus, ventral part",315,107,2.917705535572636,1.7381948689887945
+Medial preoptic nucleus,314,72,6.14986894017694,1.324033448067403
+Dorsal premammillary nucleus,0,73,0.0,1.7337365018498585
+Ventral premammillary nucleus,315,95,11.366297775974084,1.9021813156509961
+"Paraventricular hypothalamic nucleus, descending division",0,88,0.0,2.0054190505707465
+Ventromedial hypothalamic nucleus,0,77,0.0,1.1443757769592986
+Posterior hypothalamic nucleus,311,101,6.5041376462392755,2.549953439907165
+Lateral hypothalamic area,316,104,5.711951045069789,2.9369202412969195
+Lateral preoptic area,0,89,0.0,1.6503193425614155
+Preparasubthalamic nucleus,0,70,0.0,1.9317686254938498
+Parasubthalamic nucleus,0,84,0.0,2.2231069884279395
+Perifornical nucleus,0,79,0.0,1.583469383214308
+Retrochiasmatic area,0,88,0.0,1.2078591793686997
+Subthalamic nucleus,0,87,0.0,0.5810449511273602
+Tuberal nucleus,170,105,0.15024364933341008,1.4966483337286818
+Zona incerta,0,101,0.0,2.130673857605733
+Median eminence,0,103,0.0,0.9452056608273549
+"Superior colliculus, sensory related",226,106,1.3393245825441915,0.7934266573838418
+Inferior colliculus,274,105,1.071239912073857,1.369355219804957
+Nucleus of the brachium of the inferior colliculus,0,83,0.0,1.1076358347504747
+Nucleus sagulum,279,77,3.8924715617049666,0.8385381988092125
+Parabigeminal nucleus,0,90,0.0,0.47277386581754455
+Midbrain trigeminal nucleus,0,77,0.0,1.451205756979182
+Subcommissural organ,0,78,0.0,0.2515555440192347
+"Substantia nigra, reticular part",0,106,0.0,0.6922549457868895
+Ventral tegmental area,316,97,14.58537834940452,2.368138981843092
+Paranigral nucleus,0,69,0.0,1.2336604678681713
+"Midbrain reticular nucleus, retrorubral area",0,86,0.0,2.0006343561786974
+Midbrain reticular nucleus,316,106,6.460496983330071,3.3111000450987036
+"Superior colliculus, motor related",316,107,4.030048407790402,1.88293921067352
+Periaqueductal gray,316,105,3.098427481318166,2.9939079068469896
+Anterior pretectal nucleus,267,105,1.6737908761783098,1.9535052837875346
+Medial pretectal area,0,95,0.0,0.5287830194341646
+Nucleus of the optic tract,0,106,0.0,0.503378538797543
+Nucleus of the posterior commissure,0,99,0.0,1.2892777398046424
+Olivary pretectal nucleus,0,96,0.0,0.5630531943348461
+Posterior pretectal nucleus,0,82,0.0,0.9490837973285382
+Cuneiform nucleus,0,104,0.0,0.8563506723818146
+Red nucleus,298,94,8.66581862891266,1.5523523121362897
+Oculomotor nucleus,0,66,0.0,0.852439935695982
+Medial accesory oculomotor nucleus,0,76,0.0,2.1145225796564384
+Edinger-Westphal nucleus,0,79,0.0,2.0231199166178016
+Trochlear nucleus,0,63,0.0,2.004900496431756
+Paratrochlear nucleus,0,64,0.0,1.3925395237065479
+Ventral tegmental nucleus,0,58,0.0,0.543663876402258
+Anterior tegmental nucleus,0,71,0.0,0.8407017982670667
+Lateral terminal nucleus of the accessory optic tract,0,79,0.0,0.7366472109164214
+Dorsal terminal nucleus of the accessory optic tract,0,96,0.0,0.8638958698317661
+Medial terminal nucleus of the accessory optic tract,0,99,0.0,1.410031363394459
+"Substantia nigra, compact part",0,85,0.0,1.1744610355819745
+Pedunculopontine nucleus,0,91,0.0,0.7958434070229994
+Interfascicular nucleus raphe,0,97,0.0,2.317989501847142
+Interpeduncular nucleus,309,107,1.365785624755651,0.7854246779608436
+Rostral linear nucleus raphe,0,90,0.0,1.945131162407957
+Central linear nucleus raphe,307,90,5.268480985358831,2.704351184223118
+Dorsal nucleus raphe,314,81,13.519003059513349,2.634754015379861
+Nucleus of the lateral lemniscus,0,107,0.0,0.647988662247847
+Principal sensory nucleus of the trigeminal,0,97,0.0,0.3245582131942639
+Parabrachial nucleus,316,97,2.9437338843992435,1.2182329951878486
+Superior olivary complex,155,94,0.628885230371418,1.3745101590354605
+Barrington's nucleus,0,62,0.0,1.2350536107027812
+Dorsal tegmental nucleus,0,62,0.0,0.6921911533616103
+Posterodorsal tegmental nucleus,0,62,0.0,0.5268702518202029
+Pontine central gray,0,95,0.0,1.6497687728734096
+Pontine gray,231,107,1.1775093873933424,0.8393320505145496
+"Pontine reticular nucleus, caudal part",275,91,1.3734469588427491,1.0431989018997732
+Supragenual nucleus,0,55,0.0,0.4878013091170138
+Supratrigeminal nucleus,0,78,0.0,0.887550169185766
+Tegmental reticular nucleus,0,99,0.0,0.7789032047642359
+Motor nucleus of trigeminal,0,72,0.0,0.46472223816328967
+Peritrigeminal zone,0,77,0.0,0.8015855236318934
+Accessory trigeminal nucleus,0,56,0.0,0.5132708265698346
+Parvicellular motor 5 nucleus,0,92,0.0,0.6273729440854767
+Intertrigeminal nucleus,0,57,0.0,0.5905031744309874
+Superior central nucleus raphe,0,93,0.0,1.0087482658210822
+Locus ceruleus,0,67,0.0,1.091090759046114
+Laterodorsal tegmental nucleus,316,80,1.9694553282833902,1.3755794174833014
+Nucleus incertus,296,75,4.656013346956463,1.2204637033360308
+Pontine reticular nucleus,0,98,0.0,1.0913632622291163
+Nucleus raphe pontis,0,69,0.0,0.7537806197419499
+Subceruleus nucleus,0,67,0.0,0.7204796625768772
+Sublaterodorsal nucleus,0,75,0.0,1.0592681064372338
+Area postrema,0,79,0.0,0.4016835332753737
+Dorsal cochlear nucleus,181,103,1.644641260299177,1.463593124148436
+Ventral cochlear nucleus,253,105,4.3460869152933554,0.6995536677989461
+Cuneate nucleus,0,91,0.0,0.7648106260105592
+Gracile nucleus,0,81,0.0,0.7472292792692761
+External cuneate nucleus,0,92,0.0,0.24561876888091264
+Nucleus of the trapezoid body,0,84,0.0,0.9052509061438284
+Nucleus of the solitary tract,305,92,6.274660982658451,1.4978999533410464
+"Spinal nucleus of the trigeminal, caudal part",281,90,1.8248034579024193,1.096149906691448
+"Spinal nucleus of the trigeminal, interpolar part",0,86,0.0,0.29800247620326326
+"Spinal nucleus of the trigeminal, oral part",0,85,0.0,0.4920367517710015
+Paratrigeminal nucleus,0,84,0.0,0.2942225870213079
+Abducens nucleus,0,63,0.0,0.5807773550426569
+Facial motor nucleus,0,92,0.0,1.6248520549652328
+Accessory facial motor nucleus,0,52,0.0,1.0805703264792672
+Nucleus ambiguus,0,68,0.0,1.2327190290191619
+Dorsal motor nucleus of the vagus nerve,0,68,0.0,1.17428571528345
+Gigantocellular reticular nucleus,316,91,15.950153173099997,1.703974502949421
+Infracerebellar nucleus,0,55,0.0,0.34309760994530736
+Inferior olivary complex,242,92,2.7017550659089005,1.7431494005098318
+Intermediate reticular nucleus,235,92,0.718585962250648,1.584862040810636
+Inferior salivatory nucleus,0,45,0.0,0.7448126667023948
+Linear nucleus of the medulla,0,76,0.0,0.6756592405738934
+Lateral reticular nucleus,0,91,0.0,0.8616740824877279
+Magnocellular reticular nucleus,0,90,0.0,1.5122387857995319
+Medullary reticular nucleus,316,91,10.829316182909656,1.6120295525984574
+"Medullary reticular nucleus, dorsal part",0,87,0.0,1.6377650583326875
+"Medullary reticular nucleus, ventral part",0,88,0.0,1.2333932108873855
+Parvicellular reticular nucleus,137,93,0.33658686480623146,1.2735472297915593
+Parasolitary nucleus,0,79,0.0,0.6303573521870576
+"Paragigantocellular reticular nucleus, dorsal part",0,80,0.0,0.4496088961577473
+"Paragigantocellular reticular nucleus, lateral part",0,91,0.0,1.3817667908145177
+Nucleus of Roller,0,57,0.0,1.1271782914967494
+Nucleus prepositus,0,86,0.0,0.35877578373828184
+Parapyramidal nucleus,0,86,0.0,1.1759816027273118
+Lateral vestibular nucleus,0,79,0.0,0.6475157122288986
+Medial vestibular nucleus,0,94,0.0,0.8519595836179634
+Spinal vestibular nucleus,284,99,3.9052902008367796,0.6574488445043811
+Superior vestibular nucleus,0,86,0.0,0.4786909913510014
+Nucleus x,0,56,0.0,0.7004910944887514
+Hypoglossal nucleus,206,66,1.0518811277109916,1.3470509297962374
+Nucleus y,0,39,0.0,0.5200027082582085
+Nucleus raphe magnus,0,86,0.0,1.5201402909213644
+Nucleus raphe pallidus,0,106,0.0,1.87688397171937
+Nucleus raphe obscurus,309,81,4.374556137459321,1.7416693384116864
+Lingula (I),0,86,0.0,0.05751851905346128
+Central lobule,0,106,0.0,0.37820222528961356
+Culmen,0,106,0.0,1.022577126237509
+Declive (VI),0,99,0.0,0.04004980669918865
+Folium-tuber vermis (VII),0,92,0.0,0.07431758082546587
+Pyramus (VIII),0,83,0.0,0.05485771178034694
+Uvula (IX),0,100,0.0,0.4258092615348484
+Nodulus (X),0,97,0.0,0.27949430122307695
+Simple lobule,0,104,0.0,1.0470001588902846
+Ansiform lobule,190,108,0.9107685086519105,0.9827798581813593
+Paramedian lobule,0,103,0.0,0.0896239291867761
+Copula pyramidis,0,103,0.0,0.8876782032117262
+Paraflocculus,206,106,2.225824747064044,0.6760442778554328
+Flocculus,0,101,0.0,0.15834100787555247
+Fastigial nucleus,0,75,0.0,0.19261932939733065
+Interposed nucleus,309,82,4.407860933304691,0.5873307475709851
+Dentate nucleus,155,64,0.8614411178539888,0.5594991975705377
+Vestibulocerebellar nucleus,0,81,0.0,0.2989111091686202
+fiber tracts,0,108,0.0,18.194585804915015

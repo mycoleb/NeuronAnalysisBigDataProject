@@ -1,0 +1,316 @@
+Frontal pole, cerebral cortex
+Primary motor area
+Secondary motor area
+Primary somatosensory area, nose
+Primary somatosensory area, barrel field
+Primary somatosensory area, lower limb
+Primary somatosensory area, mouth
+Primary somatosensory area, upper limb
+Primary somatosensory area, trunk
+Primary somatosensory area, unassigned
+Supplemental somatosensory area
+Gustatory areas
+Visceral area
+Dorsal auditory area
+Primary auditory area
+Posterior auditory area
+Ventral auditory area
+Anterolateral visual area
+Anteromedial visual area
+Lateral visual area
+Primary visual area
+Posterolateral visual area
+posteromedial visual area
+Laterointermediate area
+Postrhinal area
+Anterior cingulate area, dorsal part
+Anterior cingulate area, ventral part
+Prelimbic area
+Infralimbic area
+Orbital area, lateral part
+Orbital area, medial part
+Orbital area, ventrolateral part
+Agranular insular area, dorsal part
+Agranular insular area, posterior part
+Agranular insular area, ventral part
+Retrosplenial area, lateral agranular part
+Retrosplenial area, dorsal part
+Retrosplenial area, ventral part
+Anterior area
+Rostrolateral visual area
+Temporal association areas
+Perirhinal area
+Ectorhinal area
+Main olfactory bulb
+Accessory olfactory bulb
+Anterior olfactory nucleus
+Taenia tecta
+Dorsal peduncular area
+Piriform area
+Nucleus of the lateral olfactory tract
+Cortical amygdalar area, anterior part
+Cortical amygdalar area, posterior part
+Piriform-amygdalar area
+Postpiriform transition area
+Field CA1
+Field CA2
+Field CA3
+Dentate gyrus
+Fasciola cinerea
+Induseum griseum
+Entorhinal area, lateral part
+Entorhinal area, medial part, dorsal zone
+Parasubiculum
+Postsubiculum
+Presubiculum
+Subiculum
+Prosubiculum
+Hippocampo-amygdalar transition area
+Area prostriata
+Claustrum
+Endopiriform nucleus, dorsal part
+Endopiriform nucleus, ventral part
+Lateral amygdalar nucleus
+Basolateral amygdalar nucleus
+Basomedial amygdalar nucleus
+Posterior amygdalar nucleus
+Caudoputamen
+Nucleus accumbens
+Fundus of striatum
+Olfactory tubercle
+Lateral septal nucleus, caudal (caudodorsal) part
+Lateral septal nucleus, rostral (rostroventral) part
+Lateral septal nucleus, ventral part
+Septofimbrial nucleus
+Septohippocampal nucleus
+Anterior amygdalar area
+Bed nucleus of the accessory olfactory tract
+Central amygdalar nucleus
+Intercalated amygdalar nucleus
+Medial amygdalar nucleus
+Globus pallidus, external segment
+Globus pallidus, internal segment
+Substantia innominata
+Magnocellular nucleus
+Medial septal nucleus
+Diagonal band nucleus
+Triangular nucleus of septum
+Bed nuclei of the stria terminalis
+Bed nucleus of the anterior commissure
+Ventral anterior-lateral complex of the thalamus
+Ventral medial nucleus of the thalamus
+Ventral posterolateral nucleus of the thalamus
+Ventral posterolateral nucleus of the thalamus, parvicellular part
+Ventral posteromedial nucleus of the thalamus
+Ventral posteromedial nucleus of the thalamus, parvicellular part
+Posterior triangular thalamic nucleus
+Subparafascicular nucleus, magnocellular part
+Subparafascicular nucleus, parvicellular part
+Subparafascicular area
+Peripeduncular nucleus
+Medial geniculate complex
+Dorsal part of the lateral geniculate complex
+Lateral posterior nucleus of the thalamus
+Posterior complex of the thalamus
+Posterior limiting nucleus of the thalamus
+Suprageniculate nucleus
+Anteroventral nucleus of thalamus
+Anteromedial nucleus
+Anterodorsal nucleus
+Interanteromedial nucleus of the thalamus
+Interanterodorsal nucleus of the thalamus
+Lateral dorsal nucleus of thalamus
+Intermediodorsal nucleus of the thalamus
+Mediodorsal nucleus of thalamus
+Submedial nucleus of the thalamus
+Perireunensis nucleus
+Paraventricular nucleus of the thalamus
+Parataenial nucleus
+Nucleus of reuniens
+Xiphoid thalamic nucleus
+Rhomboid nucleus
+Central medial nucleus of the thalamus
+Paracentral nucleus
+Central lateral nucleus of the thalamus
+Parafascicular nucleus
+Posterior intralaminar thalamic nucleus
+Reticular nucleus of the thalamus
+Intergeniculate leaflet of the lateral geniculate complex
+Intermediate geniculate nucleus
+Ventral part of the lateral geniculate complex
+Subgeniculate nucleus
+Medial habenula
+Lateral habenula
+Supraoptic nucleus
+Accessory supraoptic group
+Paraventricular hypothalamic nucleus
+Periventricular hypothalamic nucleus, anterior part
+Periventricular hypothalamic nucleus, intermediate part
+Arcuate hypothalamic nucleus
+Anterodorsal preoptic nucleus
+Anteroventral preoptic nucleus
+Anteroventral periventricular nucleus
+Dorsomedial nucleus of the hypothalamus
+Median preoptic nucleus
+Medial preoptic area
+Vascular organ of the lamina terminalis
+Posterodorsal preoptic nucleus
+Parastrial nucleus
+Periventricular hypothalamic nucleus, posterior part
+Periventricular hypothalamic nucleus, preoptic part
+Subparaventricular zone
+Suprachiasmatic nucleus
+Subfornical organ
+Ventromedial preoptic nucleus
+Ventrolateral preoptic nucleus
+Anterior hypothalamic nucleus
+Lateral mammillary nucleus
+Medial mammillary nucleus
+Supramammillary nucleus
+Tuberomammillary nucleus, dorsal part
+Tuberomammillary nucleus, ventral part
+Medial preoptic nucleus
+Dorsal premammillary nucleus
+Ventral premammillary nucleus
+Paraventricular hypothalamic nucleus, descending division
+Ventromedial hypothalamic nucleus
+Posterior hypothalamic nucleus
+Lateral hypothalamic area
+Lateral preoptic area
+Preparasubthalamic nucleus
+Parasubthalamic nucleus
+Perifornical nucleus
+Retrochiasmatic area
+Subthalamic nucleus
+Tuberal nucleus
+Zona incerta
+Median eminence
+Superior colliculus, sensory related
+Inferior colliculus
+Nucleus of the brachium of the inferior colliculus
+Nucleus sagulum
+Parabigeminal nucleus
+Midbrain trigeminal nucleus
+Subcommissural organ
+Substantia nigra, reticular part
+Ventral tegmental area
+Paranigral nucleus
+Midbrain reticular nucleus, retrorubral area
+Midbrain reticular nucleus
+Superior colliculus, motor related
+Periaqueductal gray
+Anterior pretectal nucleus
+Medial pretectal area
+Nucleus of the optic tract
+Nucleus of the posterior commissure
+Olivary pretectal nucleus
+Posterior pretectal nucleus
+Cuneiform nucleus
+Red nucleus
+Oculomotor nucleus
+Medial accesory oculomotor nucleus
+Edinger-Westphal nucleus
+Trochlear nucleus
+Paratrochlear nucleus
+Ventral tegmental nucleus
+Anterior tegmental nucleus
+Lateral terminal nucleus of the accessory optic tract
+Dorsal terminal nucleus of the accessory optic tract
+Medial terminal nucleus of the accessory optic tract
+Substantia nigra, compact part
+Pedunculopontine nucleus
+Interfascicular nucleus raphe
+Interpeduncular nucleus
+Rostral linear nucleus raphe
+Central linear nucleus raphe
+Dorsal nucleus raphe
+Nucleus of the lateral lemniscus
+Principal sensory nucleus of the trigeminal
+Parabrachial nucleus
+Superior olivary complex
+Barrington's nucleus
+Dorsal tegmental nucleus
+Posterodorsal tegmental nucleus
+Pontine central gray
+Pontine gray
+Pontine reticular nucleus, caudal part
+Supragenual nucleus
+Supratrigeminal nucleus
+Tegmental reticular nucleus
+Motor nucleus of trigeminal
+Peritrigeminal zone
+Accessory trigeminal nucleus
+Parvicellular motor 5 nucleus
+Intertrigeminal nucleus
+Superior central nucleus raphe
+Locus ceruleus
+Laterodorsal tegmental nucleus
+Nucleus incertus
+Pontine reticular nucleus
+Nucleus raphe pontis
+Subceruleus nucleus
+Sublaterodorsal nucleus
+Area postrema
+Dorsal cochlear nucleus
+Ventral cochlear nucleus
+Cuneate nucleus
+Gracile nucleus
+External cuneate nucleus
+Nucleus of the trapezoid body
+Nucleus of the solitary tract
+Spinal nucleus of the trigeminal, caudal part
+Spinal nucleus of the trigeminal, interpolar part
+Spinal nucleus of the trigeminal, oral part
+Paratrigeminal nucleus
+Abducens nucleus
+Facial motor nucleus
+Accessory facial motor nucleus
+Nucleus ambiguus
+Dorsal motor nucleus of the vagus nerve
+Gigantocellular reticular nucleus
+Infracerebellar nucleus
+Inferior olivary complex
+Intermediate reticular nucleus
+Inferior salivatory nucleus
+Linear nucleus of the medulla
+Lateral reticular nucleus
+Magnocellular reticular nucleus
+Medullary reticular nucleus
+Medullary reticular nucleus, dorsal part
+Medullary reticular nucleus, ventral part
+Parvicellular reticular nucleus
+Parasolitary nucleus
+Paragigantocellular reticular nucleus, dorsal part
+Paragigantocellular reticular nucleus, lateral part
+Nucleus of Roller
+Nucleus prepositus
+Parapyramidal nucleus
+Lateral vestibular nucleus
+Medial vestibular nucleus
+Spinal vestibular nucleus
+Superior vestibular nucleus
+Nucleus x
+Hypoglossal nucleus
+Nucleus y
+Nucleus raphe magnus
+Nucleus raphe pallidus
+Nucleus raphe obscurus
+Lingula (I)
+Central lobule
+Culmen
+Declive (VI)
+Folium-tuber vermis (VII)
+Pyramus (VIII)
+Uvula (IX)
+Nodulus (X)
+Simple lobule
+Ansiform lobule
+Paramedian lobule
+Copula pyramidis
+Paraflocculus
+Flocculus
+Fastigial nucleus
+Interposed nucleus
+Dentate nucleus
+Vestibulocerebellar nucleus
+fiber tracts

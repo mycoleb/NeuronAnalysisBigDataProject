@@ -1,0 +1,1036 @@
+start_region,step,nodes_removed,efficiency,components
+Primary motor area,1,2,0.7382064503083612,209
+Primary motor area,2,3,0.7365336480739098,209
+Primary motor area,3,4,0.7348550012288031,209
+Primary motor area,4,5,0.7331498886965125,209
+Primary motor area,5,6,0.7314593921792345,209
+Primary motor area,6,7,0.7297317047708529,209
+Primary motor area,7,8,0.7279872231328542,209
+Primary motor area,8,9,0.7262151529252506,209
+Primary motor area,9,10,0.7244576440782611,209
+Primary motor area,10,11,0.7226722382942248,209
+Secondary motor area,1,2,0.7382064503083612,209
+Secondary motor area,2,3,0.7365336480739098,209
+Secondary motor area,3,4,0.7348550012288031,209
+Secondary motor area,4,5,0.7331498886965125,209
+Secondary motor area,5,6,0.7314593921792345,209
+"Primary somatosensory area, nose",1,2,0.7382064503083612,209
+"Primary somatosensory area, nose",2,3,0.7365336480739098,209
+"Primary somatosensory area, nose",3,4,0.7348550012288031,209
+"Primary somatosensory area, nose",4,5,0.7331498886965125,209
+"Primary somatosensory area, nose",5,6,0.7314593921792345,209
+"Primary somatosensory area, nose",6,7,0.7297317047708529,209
+"Primary somatosensory area, nose",7,8,0.7279872231328542,209
+"Primary somatosensory area, nose",8,9,0.7262151529252506,209
+"Primary somatosensory area, nose",9,10,0.7244576440782611,209
+"Primary somatosensory area, nose",10,11,0.7226722382942248,209
+"Primary somatosensory area, barrel field",1,2,0.7382064503083612,209
+"Primary somatosensory area, barrel field",2,3,0.7365336480739098,209
+"Primary somatosensory area, barrel field",3,4,0.7348550012288031,209
+"Primary somatosensory area, barrel field",4,5,0.7331498886965125,209
+"Primary somatosensory area, barrel field",5,6,0.7314593921792345,209
+"Primary somatosensory area, barrel field",6,7,0.7297317047708529,209
+"Primary somatosensory area, barrel field",7,8,0.7279872231328542,209
+"Primary somatosensory area, barrel field",8,9,0.7262151529252506,209
+"Primary somatosensory area, barrel field",9,10,0.7244576440782611,209
+"Primary somatosensory area, barrel field",10,11,0.7226722382942248,209
+"Primary somatosensory area, lower limb",1,2,0.7382064503083612,209
+"Primary somatosensory area, lower limb",2,3,0.7365336480739098,209
+"Primary somatosensory area, lower limb",3,4,0.7348550012288031,209
+"Primary somatosensory area, lower limb",4,5,0.7331498886965125,209
+"Primary somatosensory area, lower limb",5,6,0.7314593921792345,209
+"Primary somatosensory area, lower limb",6,7,0.7297317047708529,209
+"Primary somatosensory area, lower limb",7,8,0.7279872231328542,209
+"Primary somatosensory area, lower limb",8,9,0.7262151529252506,209
+"Primary somatosensory area, lower limb",9,10,0.7244576440782611,209
+"Primary somatosensory area, lower limb",10,11,0.7226722382942248,209
+"Primary somatosensory area, mouth",1,2,0.7382064503083612,209
+"Primary somatosensory area, mouth",2,3,0.7365336480739098,209
+"Primary somatosensory area, mouth",3,4,0.7348550012288031,209
+"Primary somatosensory area, mouth",4,5,0.7331498886965125,209
+"Primary somatosensory area, mouth",5,6,0.7314593921792345,209
+"Primary somatosensory area, mouth",6,7,0.7297317047708529,209
+"Primary somatosensory area, mouth",7,8,0.7279872231328542,209
+"Primary somatosensory area, mouth",8,9,0.7262151529252506,209
+"Primary somatosensory area, mouth",9,10,0.7244576440782611,209
+"Primary somatosensory area, mouth",10,11,0.7226722382942248,209
+Supplemental somatosensory area,1,2,0.7382064503083612,209
+Supplemental somatosensory area,2,3,0.7365336480739098,209
+Supplemental somatosensory area,3,4,0.7348550012288031,209
+Supplemental somatosensory area,4,5,0.7331498886965125,209
+Supplemental somatosensory area,5,6,0.7314593921792345,209
+Supplemental somatosensory area,6,7,0.7297317047708529,209
+Supplemental somatosensory area,7,8,0.7279872231328542,209
+Supplemental somatosensory area,8,9,0.7262151529252506,209
+Supplemental somatosensory area,9,10,0.7244576440782611,209
+Supplemental somatosensory area,10,11,0.7226722382942248,209
+Gustatory areas,1,2,0.7382064503083612,209
+Gustatory areas,2,3,0.7365336480739098,209
+Gustatory areas,3,4,0.7348550012288031,209
+Gustatory areas,4,5,0.7331498886965125,209
+Gustatory areas,5,6,0.7314593921792345,209
+Gustatory areas,6,7,0.7297317047708529,209
+Gustatory areas,7,8,0.7279872231328542,209
+Gustatory areas,8,9,0.7262151529252506,209
+Gustatory areas,9,10,0.7244576440782611,209
+Gustatory areas,10,11,0.7226722382942248,209
+Visceral area,1,2,0.7382064503083612,209
+Visceral area,2,3,0.7365336480739098,209
+Visceral area,3,4,0.7348550012288031,209
+Visceral area,4,5,0.7331498886965125,209
+Visceral area,5,6,0.7314593921792345,209
+Visceral area,6,7,0.7297317047708529,209
+Visceral area,7,8,0.7279872231328542,209
+Visceral area,8,9,0.7262151529252506,209
+Visceral area,9,10,0.7244576440782611,209
+Visceral area,10,11,0.7226722382942248,209
+Dorsal auditory area,1,2,0.7382064503083612,209
+Dorsal auditory area,2,3,0.7365336480739098,209
+Dorsal auditory area,3,4,0.7348550012288031,209
+Dorsal auditory area,4,5,0.7331498886965125,209
+Dorsal auditory area,5,6,0.7314593921792345,209
+Dorsal auditory area,6,7,0.7297317047708529,209
+Dorsal auditory area,7,8,0.7279872231328542,209
+Dorsal auditory area,8,9,0.7262151529252506,209
+Dorsal auditory area,9,10,0.7244576440782611,209
+Dorsal auditory area,10,11,0.7226722382942248,209
+Primary auditory area,1,2,0.7382064503083612,209
+Primary auditory area,2,3,0.7365336480739098,209
+Primary auditory area,3,4,0.7348550012288031,209
+Primary auditory area,4,5,0.7331498886965125,209
+Primary auditory area,5,6,0.7314593921792345,209
+Primary auditory area,6,7,0.7297317047708529,209
+Primary auditory area,7,8,0.7279872231328542,209
+Primary auditory area,8,9,0.7262151529252506,209
+Primary auditory area,9,10,0.7244576440782611,209
+Primary auditory area,10,11,0.7226722382942248,209
+Posterior auditory area,1,2,0.7382064503083612,209
+Posterior auditory area,2,3,0.7365336480739098,209
+Posterior auditory area,3,4,0.7348550012288031,209
+Posterior auditory area,4,5,0.7331498886965125,209
+Posterior auditory area,5,6,0.7314593921792345,209
+Posterior auditory area,6,7,0.7297317047708529,209
+Posterior auditory area,7,8,0.7279872231328542,209
+Posterior auditory area,8,9,0.7262151529252506,209
+Posterior auditory area,9,10,0.7244576440782611,209
+Posterior auditory area,10,11,0.7226722382942248,209
+Anterolateral visual area,1,2,0.7382064503083612,209
+Anterolateral visual area,2,3,0.7365336480739098,209
+Anterolateral visual area,3,4,0.7348550012288031,209
+Anterolateral visual area,4,5,0.7331498886965125,209
+Anterolateral visual area,5,6,0.7314593921792345,209
+Anterolateral visual area,6,7,0.7297317047708529,209
+Anterolateral visual area,7,8,0.7279872231328542,209
+Anterolateral visual area,8,9,0.7262151529252506,209
+Anterolateral visual area,9,10,0.7244576440782611,209
+Anterolateral visual area,10,11,0.7226722382942248,209
+Anteromedial visual area,1,2,0.7382064503083612,209
+Anteromedial visual area,2,3,0.7365336480739098,209
+Anteromedial visual area,3,4,0.7348550012288031,209
+Anteromedial visual area,4,5,0.7331498886965125,209
+Anteromedial visual area,5,6,0.7314593921792345,209
+Anteromedial visual area,6,7,0.7297317047708529,209
+Anteromedial visual area,7,8,0.7279872231328542,209
+Anteromedial visual area,8,9,0.7262151529252506,209
+Anteromedial visual area,9,10,0.7244576440782611,209
+Anteromedial visual area,10,11,0.7226722382942248,209
+Lateral visual area,1,2,0.7382064503083612,209
+Lateral visual area,2,3,0.7365336480739098,209
+Lateral visual area,3,4,0.7348550012288031,209
+Lateral visual area,4,5,0.7331498886965125,209
+Lateral visual area,5,6,0.7314593921792345,209
+Lateral visual area,6,7,0.7297317047708529,209
+Lateral visual area,7,8,0.7279872231328542,209
+Lateral visual area,8,9,0.7262151529252506,209
+Lateral visual area,9,10,0.7244576440782611,209
+Lateral visual area,10,11,0.7226722382942248,209
+Primary visual area,1,2,0.7382064503083612,209
+Posterolateral visual area,1,2,0.7382064503083612,209
+Posterolateral visual area,2,3,0.7365336480739098,209
+Posterolateral visual area,3,4,0.7348550012288031,209
+Posterolateral visual area,4,5,0.7331498886965125,209
+Posterolateral visual area,5,6,0.7314593921792345,209
+Posterolateral visual area,6,7,0.7297317047708529,209
+Posterolateral visual area,7,8,0.7279872231328542,209
+Posterolateral visual area,8,9,0.7262151529252506,209
+Posterolateral visual area,9,10,0.7244576440782611,209
+Posterolateral visual area,10,11,0.7226722382942248,209
+posteromedial visual area,1,2,0.7382064503083612,209
+posteromedial visual area,2,3,0.7365336480739098,209
+posteromedial visual area,3,4,0.7348550012288031,209
+posteromedial visual area,4,5,0.7331498886965125,209
+posteromedial visual area,5,6,0.7314593921792345,209
+posteromedial visual area,6,7,0.7297317047708529,209
+Laterointermediate area,1,2,0.7382064503083612,209
+Laterointermediate area,2,3,0.7365336480739098,209
+Laterointermediate area,3,4,0.7348550012288031,209
+Laterointermediate area,4,5,0.7331498886965125,209
+Laterointermediate area,5,6,0.7314593921792345,209
+Laterointermediate area,6,7,0.7297317047708529,209
+Laterointermediate area,7,8,0.7279872231328542,209
+Laterointermediate area,8,9,0.7262151529252506,209
+Laterointermediate area,9,10,0.7244576440782611,209
+Laterointermediate area,10,11,0.7226722382942248,209
+Postrhinal area,1,2,0.7382064503083612,209
+Postrhinal area,2,3,0.7365336480739098,209
+Postrhinal area,3,4,0.7348550012288031,209
+Postrhinal area,4,5,0.7331498886965125,209
+Postrhinal area,5,6,0.7314593921792345,209
+Postrhinal area,6,7,0.7297317047708529,209
+Postrhinal area,7,8,0.7279872231328542,209
+Postrhinal area,8,9,0.7262151529252506,209
+Postrhinal area,9,10,0.7244576440782611,209
+Postrhinal area,10,11,0.7226722382942248,209
+"Anterior cingulate area, dorsal part",1,2,0.7382064503083612,209
+"Anterior cingulate area, dorsal part",2,3,0.7365336480739098,209
+"Anterior cingulate area, dorsal part",3,4,0.7348550012288031,209
+"Anterior cingulate area, dorsal part",4,5,0.7331498886965125,209
+"Anterior cingulate area, dorsal part",5,6,0.7314593921792345,209
+"Anterior cingulate area, dorsal part",6,7,0.7297317047708529,209
+"Anterior cingulate area, dorsal part",7,8,0.7279872231328542,209
+"Anterior cingulate area, dorsal part",8,9,0.7262151529252506,209
+"Anterior cingulate area, dorsal part",9,10,0.7244576440782611,209
+"Anterior cingulate area, dorsal part",10,11,0.7226722382942248,209
+"Anterior cingulate area, ventral part",1,2,0.7382064503083612,209
+"Anterior cingulate area, ventral part",2,3,0.7365336480739098,209
+"Anterior cingulate area, ventral part",3,4,0.7348550012288031,209
+"Anterior cingulate area, ventral part",4,5,0.7331498886965125,209
+"Anterior cingulate area, ventral part",5,6,0.7314593921792345,209
+"Anterior cingulate area, ventral part",6,7,0.7297317047708529,209
+"Anterior cingulate area, ventral part",7,8,0.7279872231328542,209
+"Anterior cingulate area, ventral part",8,9,0.7262151529252506,209
+"Anterior cingulate area, ventral part",9,10,0.7244576440782611,209
+"Anterior cingulate area, ventral part",10,11,0.7226722382942248,209
+Prelimbic area,1,2,0.7382064503083612,209
+Prelimbic area,2,3,0.7365336480739098,209
+Prelimbic area,3,4,0.7348550012288031,209
+Prelimbic area,4,5,0.7331498886965125,209
+Prelimbic area,5,6,0.7314593921792345,209
+Prelimbic area,6,7,0.7297317047708529,209
+Prelimbic area,7,8,0.7279872231328542,209
+"Orbital area, medial part",1,2,0.7382064503083612,209
+"Orbital area, medial part",2,3,0.7365336480739098,209
+"Orbital area, medial part",3,4,0.7348550012288031,209
+"Orbital area, medial part",4,5,0.7331498886965125,209
+"Orbital area, medial part",5,6,0.7314593921792345,209
+"Orbital area, medial part",6,7,0.7297317047708529,209
+"Orbital area, medial part",7,8,0.7279872231328542,209
+"Orbital area, medial part",8,9,0.7262151529252506,209
+"Orbital area, medial part",9,10,0.7244576440782611,209
+"Orbital area, medial part",10,11,0.7226722382942248,209
+"Orbital area, ventrolateral part",1,2,0.7382064503083612,209
+"Orbital area, ventrolateral part",2,3,0.7365641724832624,209
+"Orbital area, ventrolateral part",3,4,0.7348857213074466,209
+"Orbital area, ventrolateral part",4,5,0.7331911122104048,209
+"Orbital area, ventrolateral part",5,6,0.7315319987553158,209
+"Orbital area, ventrolateral part",6,7,0.7298778578139681,209
+"Orbital area, ventrolateral part",7,8,0.7281763543899467,209
+"Orbital area, ventrolateral part",8,9,0.726468970768645,209
+"Orbital area, ventrolateral part",9,10,0.7247876349236763,209
+"Orbital area, ventrolateral part",10,11,0.7230686810243223,209
+"Agranular insular area, dorsal part",1,2,0.7382064503083612,209
+"Agranular insular area, dorsal part",2,3,0.7365336480739098,209
+"Agranular insular area, dorsal part",3,4,0.7348550012288031,209
+"Agranular insular area, dorsal part",4,5,0.7331498886965125,209
+"Agranular insular area, dorsal part",5,6,0.7314593921792345,209
+"Agranular insular area, dorsal part",6,7,0.7297317047708529,209
+"Agranular insular area, dorsal part",7,8,0.7279872231328542,209
+"Agranular insular area, dorsal part",8,9,0.7262151529252506,209
+"Agranular insular area, dorsal part",9,10,0.7244576440782611,209
+"Agranular insular area, dorsal part",10,11,0.7226722382942248,209
+"Agranular insular area, posterior part",1,2,0.7382064503083612,209
+"Agranular insular area, posterior part",2,3,0.7365336480739098,209
+"Agranular insular area, posterior part",3,4,0.7348550012288031,209
+"Agranular insular area, posterior part",4,5,0.7331808063319317,209
+"Agranular insular area, posterior part",5,6,0.7314697645472461,209
+"Agranular insular area, posterior part",6,7,0.7297421442739326,209
+"Agranular insular area, posterior part",7,8,0.7279872231328542,209
+"Agranular insular area, posterior part",8,9,0.726246880155675,209
+"Agranular insular area, posterior part",9,10,0.7244789338102233,209
+"Agranular insular area, posterior part",10,11,0.7226722382942248,209
+"Agranular insular area, ventral part",1,2,0.7382064503083612,209
+"Agranular insular area, ventral part",2,3,0.7365336480739098,209
+"Agranular insular area, ventral part",3,4,0.7348550012288031,209
+"Agranular insular area, ventral part",4,5,0.7331498886965125,209
+"Agranular insular area, ventral part",5,6,0.7314593921792345,209
+"Agranular insular area, ventral part",6,7,0.7297317047708529,209
+"Agranular insular area, ventral part",7,8,0.7279872231328542,209
+"Agranular insular area, ventral part",8,9,0.7262151529252506,209
+"Agranular insular area, ventral part",9,10,0.7244576440782611,209
+"Agranular insular area, ventral part",10,11,0.7226722382942248,209
+"Retrosplenial area, lateral agranular part",1,2,0.7382064503083612,209
+"Retrosplenial area, lateral agranular part",2,3,0.7365336480739098,209
+"Retrosplenial area, lateral agranular part",3,4,0.7348550012288031,209
+"Retrosplenial area, lateral agranular part",4,5,0.7331498886965125,209
+"Retrosplenial area, lateral agranular part",5,6,0.7314593921792345,209
+"Retrosplenial area, lateral agranular part",6,7,0.7297317047708529,209
+"Retrosplenial area, lateral agranular part",7,8,0.7279872231328542,209
+"Retrosplenial area, lateral agranular part",8,9,0.7262151529252506,209
+"Retrosplenial area, lateral agranular part",9,10,0.7244576440782611,209
+"Retrosplenial area, lateral agranular part",10,11,0.7226722382942248,209
+"Retrosplenial area, dorsal part",1,2,0.7382064503083612,209
+"Retrosplenial area, dorsal part",2,3,0.7365336480739098,209
+"Retrosplenial area, dorsal part",3,4,0.7348550012288031,209
+"Retrosplenial area, dorsal part",4,5,0.7331498886965125,209
+"Retrosplenial area, dorsal part",5,6,0.7314593921792345,209
+"Retrosplenial area, dorsal part",6,7,0.7297317047708529,209
+"Retrosplenial area, dorsal part",7,8,0.7279872231328542,209
+"Retrosplenial area, dorsal part",8,9,0.7262151529252506,209
+"Retrosplenial area, dorsal part",9,10,0.7244576440782611,209
+"Retrosplenial area, dorsal part",10,11,0.7226722382942248,209
+"Retrosplenial area, ventral part",1,2,0.7382064503083612,209
+"Retrosplenial area, ventral part",2,3,0.7365336480739098,209
+"Retrosplenial area, ventral part",3,4,0.7348550012288031,209
+"Retrosplenial area, ventral part",4,5,0.7331498886965125,209
+"Retrosplenial area, ventral part",5,6,0.7314593921792345,209
+"Retrosplenial area, ventral part",6,7,0.7297317047708529,209
+"Retrosplenial area, ventral part",7,8,0.7279872231328542,209
+"Retrosplenial area, ventral part",8,9,0.7262151529252506,209
+"Retrosplenial area, ventral part",9,10,0.7244576440782611,209
+"Retrosplenial area, ventral part",10,11,0.7226722382942248,209
+Anterior area,1,2,0.7382064503083612,209
+Anterior area,2,3,0.7365336480739098,209
+Anterior area,3,4,0.7348550012288031,209
+Anterior area,4,5,0.7331498886965125,209
+Anterior area,5,6,0.7314593921792345,209
+Anterior area,6,7,0.7297317047708529,209
+Anterior area,7,8,0.7279872231328542,209
+Anterior area,8,9,0.7262151529252506,209
+Anterior area,9,10,0.7244576440782611,209
+Anterior area,10,11,0.7226722382942248,209
+Rostrolateral visual area,1,2,0.7382064503083612,209
+Rostrolateral visual area,2,3,0.7365336480739098,209
+Rostrolateral visual area,3,4,0.7348550012288031,209
+Rostrolateral visual area,4,5,0.7331498886965125,209
+Rostrolateral visual area,5,6,0.7314593921792345,209
+Rostrolateral visual area,6,7,0.7297317047708529,209
+Rostrolateral visual area,7,8,0.7279872231328542,209
+Rostrolateral visual area,8,9,0.7262151529252506,209
+Rostrolateral visual area,9,10,0.7244576440782611,209
+Rostrolateral visual area,10,11,0.7226722382942248,209
+Accessory olfactory bulb,1,2,0.7382064503083612,209
+Accessory olfactory bulb,2,3,0.7365336480739098,209
+Accessory olfactory bulb,3,4,0.7348550012288031,209
+Accessory olfactory bulb,4,5,0.7331498886965125,209
+Accessory olfactory bulb,5,6,0.7314593921792345,209
+Accessory olfactory bulb,6,7,0.7297317047708529,209
+Accessory olfactory bulb,7,8,0.7279872231328542,209
+Accessory olfactory bulb,8,9,0.7262151529252506,209
+Accessory olfactory bulb,9,10,0.7244576440782611,209
+Accessory olfactory bulb,10,11,0.7226722382942248,209
+Anterior olfactory nucleus,1,2,0.7382064503083612,209
+Anterior olfactory nucleus,2,3,0.7365336480739098,209
+Anterior olfactory nucleus,3,4,0.7348550012288031,209
+Anterior olfactory nucleus,4,5,0.7331498886965125,209
+Anterior olfactory nucleus,5,6,0.7314593921792345,209
+Anterior olfactory nucleus,6,7,0.7297317047708529,209
+Anterior olfactory nucleus,7,8,0.7279872231328542,209
+Anterior olfactory nucleus,8,9,0.7262151529252506,209
+Anterior olfactory nucleus,9,10,0.7244576440782611,209
+Anterior olfactory nucleus,10,11,0.7226722382942248,209
+Taenia tecta,1,2,0.7382064503083612,209
+Taenia tecta,2,3,0.7365336480739098,209
+Taenia tecta,3,4,0.7348550012288031,209
+Taenia tecta,4,5,0.7331498886965125,209
+Taenia tecta,5,6,0.7314593921792345,209
+Taenia tecta,6,7,0.7297317047708529,209
+Taenia tecta,7,8,0.7279872231328542,209
+Taenia tecta,8,9,0.7262151529252506,209
+Taenia tecta,9,10,0.7244576440782611,209
+Taenia tecta,10,11,0.7226722382942248,209
+Dorsal peduncular area,1,2,0.7382064503083612,209
+Dorsal peduncular area,2,3,0.7365336480739098,209
+Dorsal peduncular area,3,4,0.7348550012288031,209
+Dorsal peduncular area,4,5,0.7331498886965125,209
+Dorsal peduncular area,5,6,0.7314593921792345,209
+Dorsal peduncular area,6,7,0.7297317047708529,209
+Dorsal peduncular area,7,8,0.7279872231328542,209
+Dorsal peduncular area,8,9,0.7262151529252506,209
+Dorsal peduncular area,9,10,0.7244576440782611,209
+Dorsal peduncular area,10,11,0.7226722382942248,209
+Piriform area,1,2,0.7382064503083612,209
+Piriform area,2,3,0.7365336480739098,209
+Piriform area,3,4,0.7348550012288031,209
+Piriform area,4,5,0.7331498886965125,209
+Piriform area,5,6,0.7314593921792345,209
+Piriform area,6,7,0.7297317047708529,209
+Piriform area,7,8,0.7279872231328542,209
+Piriform area,8,9,0.7262151529252506,209
+Piriform area,9,10,0.7244576440782611,209
+Piriform area,10,11,0.7226722382942248,209
+"Cortical amygdalar area, posterior part",1,2,0.7382064503083612,209
+"Cortical amygdalar area, posterior part",2,3,0.7365336480739098,209
+"Cortical amygdalar area, posterior part",3,4,0.7348550012288031,209
+"Cortical amygdalar area, posterior part",4,5,0.7331498886965125,209
+"Cortical amygdalar area, posterior part",5,6,0.7314593921792345,209
+"Cortical amygdalar area, posterior part",6,7,0.7297317047708529,209
+"Cortical amygdalar area, posterior part",7,8,0.7279872231328542,209
+"Cortical amygdalar area, posterior part",8,9,0.7262151529252506,209
+"Cortical amygdalar area, posterior part",9,10,0.7244576440782611,209
+"Cortical amygdalar area, posterior part",10,11,0.7226722382942248,209
+Field CA1,1,2,0.7382064503083612,209
+Field CA1,2,3,0.7365336480739098,209
+Field CA1,3,4,0.7348550012288031,209
+Field CA1,4,5,0.7331498886965125,209
+Field CA1,5,6,0.7314593921792345,209
+Field CA1,6,7,0.7297317047708529,209
+Field CA1,7,8,0.7279872231328542,209
+Field CA1,8,9,0.7262151529252506,209
+Field CA1,9,10,0.7244576440782611,209
+Field CA1,10,11,0.7226722382942248,209
+Field CA3,1,2,0.7382064503083612,209
+Field CA3,2,3,0.7365336480739098,209
+Field CA3,3,4,0.7348550012288031,209
+Field CA3,4,5,0.7331498886965125,209
+Field CA3,5,6,0.7314593921792345,209
+Field CA3,6,7,0.7297317047708529,209
+Field CA3,7,8,0.7279872231328542,209
+Field CA3,8,9,0.7262151529252506,209
+Field CA3,9,10,0.7244576440782611,209
+Field CA3,10,11,0.7226722382942248,209
+Dentate gyrus,1,2,0.7382064503083612,209
+Dentate gyrus,2,3,0.7365336480739098,209
+Dentate gyrus,3,4,0.7348550012288031,209
+Dentate gyrus,4,5,0.7331498886965125,209
+Dentate gyrus,5,6,0.7314593921792345,209
+Dentate gyrus,6,7,0.7297317047708529,209
+Dentate gyrus,7,8,0.7279872231328542,209
+Dentate gyrus,8,9,0.7262151529252506,209
+Dentate gyrus,9,10,0.7244576440782611,209
+Dentate gyrus,10,11,0.7226722382942248,209
+"Entorhinal area, lateral part",1,2,0.7382064503083612,209
+"Entorhinal area, lateral part",2,3,0.7365336480739098,209
+"Entorhinal area, lateral part",3,4,0.7348550012288031,209
+"Entorhinal area, lateral part",4,5,0.7331498886965125,209
+"Entorhinal area, lateral part",5,6,0.7314593921792345,209
+"Entorhinal area, lateral part",6,7,0.7297317047708529,209
+"Entorhinal area, lateral part",7,8,0.7279872231328542,209
+"Entorhinal area, lateral part",8,9,0.7262151529252506,209
+"Entorhinal area, lateral part",9,10,0.7244576440782611,209
+"Entorhinal area, lateral part",10,11,0.7226722382942248,209
+"Entorhinal area, medial part, dorsal zone",1,2,0.7382064503083612,209
+"Entorhinal area, medial part, dorsal zone",2,3,0.7365336480739098,209
+"Entorhinal area, medial part, dorsal zone",3,4,0.7348550012288031,209
+"Entorhinal area, medial part, dorsal zone",4,5,0.7331498886965125,209
+"Entorhinal area, medial part, dorsal zone",5,6,0.7314593921792345,209
+"Entorhinal area, medial part, dorsal zone",6,7,0.7297317047708529,209
+"Entorhinal area, medial part, dorsal zone",7,8,0.7279872231328542,209
+"Entorhinal area, medial part, dorsal zone",8,9,0.7262151529252506,209
+"Entorhinal area, medial part, dorsal zone",9,10,0.7244576440782611,209
+"Entorhinal area, medial part, dorsal zone",10,11,0.7226722382942248,209
+Subiculum,1,2,0.7382064503083612,209
+Subiculum,2,3,0.7365336480739098,209
+Subiculum,3,4,0.7348550012288031,209
+Subiculum,4,5,0.7331498886965125,209
+Subiculum,5,6,0.7314593921792345,209
+Subiculum,6,7,0.7297317047708529,209
+Subiculum,7,8,0.7279872231328542,209
+Subiculum,8,9,0.7262151529252506,209
+Subiculum,9,10,0.7244576440782611,209
+Basomedial amygdalar nucleus,1,2,0.7382064503083612,209
+Basomedial amygdalar nucleus,2,3,0.7365336480739098,209
+Basomedial amygdalar nucleus,3,4,0.7348550012288031,209
+Basomedial amygdalar nucleus,4,5,0.7331498886965125,209
+Basomedial amygdalar nucleus,5,6,0.7314593921792345,209
+Basomedial amygdalar nucleus,6,7,0.7297317047708529,209
+Basomedial amygdalar nucleus,7,8,0.7279872231328542,209
+Basomedial amygdalar nucleus,8,9,0.7262151529252506,209
+Basomedial amygdalar nucleus,9,10,0.7244576440782611,209
+Basomedial amygdalar nucleus,10,11,0.7226722382942248,209
+Caudoputamen,1,2,0.7382064503083612,209
+Caudoputamen,2,3,0.7365336480739098,209
+Caudoputamen,3,4,0.7348550012288031,209
+Caudoputamen,4,5,0.7331498886965125,209
+Caudoputamen,5,6,0.7314593921792345,209
+Caudoputamen,6,7,0.7297317047708529,209
+Caudoputamen,7,8,0.7279872231328542,209
+Caudoputamen,8,9,0.7262151529252506,209
+Caudoputamen,9,10,0.7244576440782611,209
+Caudoputamen,10,11,0.7226722382942248,209
+Nucleus accumbens,1,2,0.7382064503083612,209
+Nucleus accumbens,2,3,0.7365336480739098,209
+Nucleus accumbens,3,4,0.7348550012288031,209
+Nucleus accumbens,4,5,0.7331498886965125,209
+Nucleus accumbens,5,6,0.7314593921792345,209
+Nucleus accumbens,6,7,0.7297317047708529,209
+Nucleus accumbens,7,8,0.7279872231328542,209
+Nucleus accumbens,8,9,0.7262151529252506,209
+Nucleus accumbens,9,10,0.7244576440782611,209
+Nucleus accumbens,10,11,0.7226722382942248,209
+Anterior amygdalar area,1,2,0.7382064503083612,209
+Anterior amygdalar area,2,3,0.7365336480739098,209
+Anterior amygdalar area,3,4,0.7348550012288031,209
+Anterior amygdalar area,4,5,0.7331498886965125,209
+Anterior amygdalar area,5,6,0.7314593921792345,209
+Anterior amygdalar area,6,7,0.7297317047708529,209
+Anterior amygdalar area,7,8,0.7279872231328542,209
+Anterior amygdalar area,8,9,0.7262151529252506,209
+Anterior amygdalar area,9,10,0.7244576440782611,209
+Anterior amygdalar area,10,11,0.7226722382942248,209
+Central amygdalar nucleus,1,2,0.7382064503083612,209
+Central amygdalar nucleus,2,3,0.7365336480739098,209
+Central amygdalar nucleus,3,4,0.7348550012288031,209
+Central amygdalar nucleus,4,5,0.7331498886965125,209
+Central amygdalar nucleus,5,6,0.7314593921792345,209
+Central amygdalar nucleus,6,7,0.7297317047708529,209
+Central amygdalar nucleus,7,8,0.7279872231328542,209
+Central amygdalar nucleus,8,9,0.7262151529252506,209
+Central amygdalar nucleus,9,10,0.7244576440782611,209
+Central amygdalar nucleus,10,11,0.7226722382942248,209
+Medial amygdalar nucleus,1,2,0.7382064503083612,209
+Medial amygdalar nucleus,2,3,0.7365336480739098,209
+Medial amygdalar nucleus,3,4,0.7348550012288031,209
+Medial amygdalar nucleus,4,5,0.7331498886965125,209
+Medial amygdalar nucleus,5,6,0.7314593921792345,209
+Medial amygdalar nucleus,6,7,0.7297317047708529,209
+Medial amygdalar nucleus,7,8,0.7279872231328542,209
+Medial amygdalar nucleus,8,9,0.7262151529252506,209
+Medial amygdalar nucleus,9,10,0.7244576440782611,209
+Medial amygdalar nucleus,10,11,0.7226722382942248,209
+Substantia innominata,1,2,0.7382064503083612,209
+Substantia innominata,2,3,0.7365336480739098,209
+Substantia innominata,3,4,0.7348550012288031,209
+Substantia innominata,4,5,0.7331498886965125,209
+Substantia innominata,5,6,0.7314593921792345,209
+Substantia innominata,6,7,0.7297317047708529,209
+Substantia innominata,7,8,0.7279872231328542,209
+Substantia innominata,8,9,0.7262151529252506,209
+Substantia innominata,9,10,0.7244576440782611,209
+Substantia innominata,10,11,0.7226722382942248,209
+Triangular nucleus of septum,1,2,0.7382064503083612,209
+Triangular nucleus of septum,2,3,0.7365336480739098,209
+Triangular nucleus of septum,3,4,0.7348550012288031,209
+Triangular nucleus of septum,4,5,0.7331498886965125,209
+Triangular nucleus of septum,5,6,0.7314593921792345,209
+Triangular nucleus of septum,6,7,0.7297317047708529,209
+Triangular nucleus of septum,7,8,0.7279872231328542,209
+Triangular nucleus of septum,8,9,0.7262151529252506,209
+Triangular nucleus of septum,9,10,0.7244576440782611,209
+Triangular nucleus of septum,10,11,0.7226722382942248,209
+Bed nuclei of the stria terminalis,1,2,0.7382064503083612,209
+Bed nuclei of the stria terminalis,2,3,0.7365336480739098,209
+Bed nuclei of the stria terminalis,3,4,0.7348550012288031,209
+Bed nuclei of the stria terminalis,4,5,0.7331498886965125,209
+Bed nuclei of the stria terminalis,5,6,0.7314593921792345,209
+Bed nuclei of the stria terminalis,6,7,0.7297317047708529,209
+Bed nuclei of the stria terminalis,7,8,0.7279872231328542,209
+Bed nuclei of the stria terminalis,8,9,0.7262151529252506,209
+Bed nuclei of the stria terminalis,9,10,0.7244576440782611,209
+Bed nuclei of the stria terminalis,10,11,0.7226722382942248,209
+Ventral medial nucleus of the thalamus,1,2,0.7382064503083612,209
+Ventral medial nucleus of the thalamus,2,3,0.7365336480739098,209
+Ventral medial nucleus of the thalamus,3,4,0.7348550012288031,209
+Ventral medial nucleus of the thalamus,4,5,0.7331498886965125,209
+Ventral medial nucleus of the thalamus,5,6,0.7314593921792345,209
+Ventral medial nucleus of the thalamus,6,7,0.7297317047708529,209
+Ventral medial nucleus of the thalamus,7,8,0.7279872231328542,209
+Ventral medial nucleus of the thalamus,8,9,0.726246880155675,209
+Ventral medial nucleus of the thalamus,9,10,0.7244789338102233,209
+Ventral medial nucleus of the thalamus,10,11,0.7226722382942248,209
+Medial geniculate complex,1,2,0.7382064503083612,209
+Medial geniculate complex,2,3,0.7365336480739098,209
+Medial geniculate complex,3,4,0.7348550012288031,209
+Medial geniculate complex,4,5,0.7331498886965125,209
+Medial geniculate complex,5,6,0.7314593921792345,209
+Medial geniculate complex,6,7,0.7297317047708529,209
+Medial geniculate complex,7,8,0.7279872231328542,209
+Medial geniculate complex,8,9,0.7262151529252506,209
+Medial geniculate complex,9,10,0.7244576440782611,209
+Medial geniculate complex,10,11,0.7226722382942248,209
+Dorsal part of the lateral geniculate complex,1,2,0.7382064503083612,209
+Dorsal part of the lateral geniculate complex,2,3,0.7365336480739098,209
+Dorsal part of the lateral geniculate complex,3,4,0.7348550012288031,209
+Dorsal part of the lateral geniculate complex,4,5,0.7331498886965125,209
+Dorsal part of the lateral geniculate complex,5,6,0.7314593921792345,209
+Dorsal part of the lateral geniculate complex,6,7,0.7297317047708529,209
+Dorsal part of the lateral geniculate complex,7,8,0.7279872231328542,209
+Dorsal part of the lateral geniculate complex,8,9,0.726246880155675,209
+Dorsal part of the lateral geniculate complex,9,10,0.7244789338102233,209
+Dorsal part of the lateral geniculate complex,10,11,0.7227365263045109,209
+Lateral posterior nucleus of the thalamus,1,2,0.7382064503083612,209
+Lateral posterior nucleus of the thalamus,2,3,0.7365336480739098,209
+Lateral posterior nucleus of the thalamus,3,4,0.7348550012288031,209
+Lateral posterior nucleus of the thalamus,4,5,0.7331498886965125,209
+Lateral posterior nucleus of the thalamus,5,6,0.7314593921792345,209
+Lateral posterior nucleus of the thalamus,6,7,0.7297317047708529,209
+Lateral posterior nucleus of the thalamus,7,8,0.7279872231328542,209
+Lateral posterior nucleus of the thalamus,8,9,0.7262151529252506,209
+Lateral posterior nucleus of the thalamus,9,10,0.7244576440782611,209
+Lateral posterior nucleus of the thalamus,10,11,0.7226722382942248,209
+Posterior complex of the thalamus,1,2,0.7382064503083612,209
+Posterior complex of the thalamus,2,3,0.7365336480739098,209
+Posterior complex of the thalamus,3,4,0.7348550012288031,209
+Posterior complex of the thalamus,4,5,0.7331498886965125,209
+Posterior complex of the thalamus,5,6,0.7314593921792345,209
+Posterior complex of the thalamus,6,7,0.7297317047708529,209
+Posterior complex of the thalamus,7,8,0.7279872231328542,209
+Posterior complex of the thalamus,8,9,0.7262151529252506,209
+Posterior complex of the thalamus,9,10,0.7244576440782611,209
+Posterior complex of the thalamus,10,11,0.7226722382942248,209
+Suprageniculate nucleus,1,2,0.7382064503083612,209
+Suprageniculate nucleus,2,3,0.7365336480739098,209
+Suprageniculate nucleus,3,4,0.7348550012288031,209
+Suprageniculate nucleus,4,5,0.7331498886965125,209
+Suprageniculate nucleus,5,6,0.7314593921792345,209
+Suprageniculate nucleus,6,7,0.7297317047708529,209
+Suprageniculate nucleus,7,8,0.7279872231328542,209
+Suprageniculate nucleus,8,9,0.7262151529252506,209
+Suprageniculate nucleus,9,10,0.7244576440782611,209
+Suprageniculate nucleus,10,11,0.7226722382942248,209
+Anteroventral nucleus of thalamus,1,2,0.7382064503083612,209
+Anteroventral nucleus of thalamus,2,3,0.7365336480739098,209
+Anteroventral nucleus of thalamus,3,4,0.7348550012288031,209
+Anteroventral nucleus of thalamus,4,5,0.7331498886965125,209
+Anteroventral nucleus of thalamus,5,6,0.7314593921792345,209
+Anteroventral nucleus of thalamus,6,7,0.7297317047708529,209
+Anteroventral nucleus of thalamus,7,8,0.7279872231328542,209
+Anteroventral nucleus of thalamus,8,9,0.7262151529252506,209
+Anteroventral nucleus of thalamus,9,10,0.7244576440782611,209
+Anteroventral nucleus of thalamus,10,11,0.7226722382942248,209
+Anteromedial nucleus,1,2,0.7382064503083612,209
+Anteromedial nucleus,2,3,0.7365336480739098,209
+Anteromedial nucleus,3,4,0.7348550012288031,209
+Anteromedial nucleus,4,5,0.7331498886965125,209
+Anteromedial nucleus,5,6,0.7314593921792345,209
+Anteromedial nucleus,6,7,0.7297317047708529,209
+Anteromedial nucleus,7,8,0.7279872231328542,209
+Anteromedial nucleus,8,9,0.7262151529252506,209
+Anteromedial nucleus,9,10,0.7244576440782611,209
+Anteromedial nucleus,10,11,0.7226722382942248,209
+Mediodorsal nucleus of thalamus,1,2,0.7382064503083612,209
+Mediodorsal nucleus of thalamus,2,3,0.7365336480739098,209
+Mediodorsal nucleus of thalamus,3,4,0.7348550012288031,209
+Mediodorsal nucleus of thalamus,4,5,0.7331498886965125,209
+Mediodorsal nucleus of thalamus,5,6,0.7314593921792345,209
+Mediodorsal nucleus of thalamus,6,7,0.7297317047708529,209
+Mediodorsal nucleus of thalamus,7,8,0.7279872231328542,209
+Mediodorsal nucleus of thalamus,8,9,0.7262151529252506,209
+Mediodorsal nucleus of thalamus,9,10,0.7244576440782611,209
+Mediodorsal nucleus of thalamus,10,11,0.7226722382942248,209
+Nucleus of reuniens,1,2,0.7382064503083612,209
+Nucleus of reuniens,2,3,0.7365336480739098,209
+Nucleus of reuniens,3,4,0.7348550012288031,209
+Nucleus of reuniens,4,5,0.7331498886965125,209
+Nucleus of reuniens,5,6,0.7314593921792345,209
+Nucleus of reuniens,6,7,0.7297317047708529,209
+Nucleus of reuniens,7,8,0.7279872231328542,209
+Nucleus of reuniens,8,9,0.7262151529252506,209
+Nucleus of reuniens,9,10,0.7244576440782611,209
+Nucleus of reuniens,10,11,0.7226722382942248,209
+Ventral part of the lateral geniculate complex,1,2,0.7382064503083612,209
+Ventral part of the lateral geniculate complex,2,3,0.7365336480739098,209
+Ventral part of the lateral geniculate complex,3,4,0.7348550012288031,209
+Ventral part of the lateral geniculate complex,4,5,0.7331498886965125,209
+Ventral part of the lateral geniculate complex,5,6,0.7314593921792345,209
+Ventral part of the lateral geniculate complex,6,7,0.7297317047708529,209
+Ventral part of the lateral geniculate complex,7,8,0.7279872231328542,209
+Ventral part of the lateral geniculate complex,8,9,0.7262151529252506,209
+Ventral part of the lateral geniculate complex,9,10,0.7244576440782611,209
+Ventral part of the lateral geniculate complex,10,11,0.7226722382942248,209
+Paraventricular hypothalamic nucleus,1,2,0.7382064503083612,209
+Paraventricular hypothalamic nucleus,2,3,0.7365336480739098,209
+Paraventricular hypothalamic nucleus,3,4,0.7348550012288031,209
+Paraventricular hypothalamic nucleus,4,5,0.7331498886965125,209
+Paraventricular hypothalamic nucleus,5,6,0.7314593921792345,209
+Paraventricular hypothalamic nucleus,6,7,0.7297317047708529,209
+Paraventricular hypothalamic nucleus,7,8,0.7279872231328542,209
+Paraventricular hypothalamic nucleus,8,9,0.7262151529252506,209
+Paraventricular hypothalamic nucleus,9,10,0.7244576440782611,209
+Paraventricular hypothalamic nucleus,10,11,0.7226722382942248,209
+Arcuate hypothalamic nucleus,1,2,0.7382064503083612,209
+Arcuate hypothalamic nucleus,2,3,0.7365336480739098,209
+Arcuate hypothalamic nucleus,3,4,0.7348550012288031,209
+Arcuate hypothalamic nucleus,4,5,0.7331498886965125,209
+Arcuate hypothalamic nucleus,5,6,0.7314593921792345,209
+Arcuate hypothalamic nucleus,6,7,0.7297317047708529,209
+Arcuate hypothalamic nucleus,7,8,0.7279872231328542,209
+Arcuate hypothalamic nucleus,8,9,0.7262151529252506,209
+Arcuate hypothalamic nucleus,9,10,0.7244576440782611,209
+Arcuate hypothalamic nucleus,10,11,0.7226722382942248,209
+Anterior hypothalamic nucleus,1,2,0.7382064503083612,209
+Anterior hypothalamic nucleus,2,3,0.7365336480739098,209
+Anterior hypothalamic nucleus,3,4,0.7348550012288031,209
+Anterior hypothalamic nucleus,4,5,0.7331498886965125,209
+Anterior hypothalamic nucleus,5,6,0.7314593921792345,209
+Anterior hypothalamic nucleus,6,7,0.7297317047708529,209
+Anterior hypothalamic nucleus,7,8,0.7279872231328542,209
+Anterior hypothalamic nucleus,8,9,0.7262151529252506,209
+Anterior hypothalamic nucleus,9,10,0.7244576440782611,209
+Anterior hypothalamic nucleus,10,11,0.7226722382942248,209
+"Tuberomammillary nucleus, ventral part",1,2,0.7382064503083612,209
+"Tuberomammillary nucleus, ventral part",2,3,0.7365336480739098,209
+"Tuberomammillary nucleus, ventral part",3,4,0.7348550012288031,209
+Medial preoptic nucleus,1,2,0.7382064503083612,209
+Medial preoptic nucleus,2,3,0.7365336480739098,209
+Medial preoptic nucleus,3,4,0.7348550012288031,209
+Medial preoptic nucleus,4,5,0.7331498886965125,209
+Medial preoptic nucleus,5,6,0.7314593921792345,209
+Medial preoptic nucleus,6,7,0.7297317047708529,209
+Medial preoptic nucleus,7,8,0.7279872231328542,209
+Medial preoptic nucleus,8,9,0.7262151529252506,209
+Medial preoptic nucleus,9,10,0.7244576440782611,209
+Medial preoptic nucleus,10,11,0.7226722382942248,209
+Ventral premammillary nucleus,1,2,0.7382064503083612,209
+Ventral premammillary nucleus,2,3,0.7365336480739098,209
+Ventral premammillary nucleus,3,4,0.7348550012288031,209
+Ventral premammillary nucleus,4,5,0.7331498886965125,209
+Ventral premammillary nucleus,5,6,0.7314593921792345,209
+Ventral premammillary nucleus,6,7,0.7297317047708529,209
+Ventral premammillary nucleus,7,8,0.7279872231328542,209
+Ventral premammillary nucleus,8,9,0.7262151529252506,209
+Ventral premammillary nucleus,9,10,0.7244576440782611,209
+Ventral premammillary nucleus,10,11,0.7226722382942248,209
+Posterior hypothalamic nucleus,1,2,0.7382064503083612,209
+Posterior hypothalamic nucleus,2,3,0.7365336480739098,209
+Posterior hypothalamic nucleus,3,4,0.7348550012288031,209
+Posterior hypothalamic nucleus,4,5,0.7331498886965125,209
+Posterior hypothalamic nucleus,5,6,0.7314593921792345,209
+Posterior hypothalamic nucleus,6,7,0.7297317047708529,209
+Posterior hypothalamic nucleus,7,8,0.7279872231328542,209
+Posterior hypothalamic nucleus,8,9,0.7262151529252506,209
+Posterior hypothalamic nucleus,9,10,0.7244576440782611,209
+Posterior hypothalamic nucleus,10,11,0.7226722382942248,209
+Lateral hypothalamic area,1,2,0.7382064503083612,209
+Lateral hypothalamic area,2,3,0.7365336480739098,209
+Lateral hypothalamic area,3,4,0.7348550012288031,209
+Lateral hypothalamic area,4,5,0.7331498886965125,209
+Lateral hypothalamic area,5,6,0.7314593921792345,209
+Lateral hypothalamic area,6,7,0.7297317047708529,209
+Lateral hypothalamic area,7,8,0.7279872231328542,209
+Lateral hypothalamic area,8,9,0.7262151529252506,209
+Lateral hypothalamic area,9,10,0.7244576440782611,209
+Lateral hypothalamic area,10,11,0.7226722382942248,209
+Tuberal nucleus,1,2,0.7382064503083612,209
+Tuberal nucleus,2,3,0.7365336480739098,209
+Tuberal nucleus,3,4,0.7348550012288031,209
+Tuberal nucleus,4,5,0.7331498886965125,209
+Tuberal nucleus,5,6,0.7314593921792345,209
+Tuberal nucleus,6,7,0.7297317047708529,209
+Tuberal nucleus,7,8,0.7279872231328542,209
+Tuberal nucleus,8,9,0.7262151529252506,209
+Tuberal nucleus,9,10,0.7244576440782611,209
+Tuberal nucleus,10,11,0.7226722382942248,209
+"Superior colliculus, sensory related",1,2,0.7382064503083612,209
+"Superior colliculus, sensory related",2,3,0.7365336480739098,209
+"Superior colliculus, sensory related",3,4,0.7348550012288031,209
+"Superior colliculus, sensory related",4,5,0.7331498886965125,209
+"Superior colliculus, sensory related",5,6,0.7314593921792345,209
+"Superior colliculus, sensory related",6,7,0.7297317047708529,209
+"Superior colliculus, sensory related",7,8,0.7279872231328542,209
+"Superior colliculus, sensory related",8,9,0.7262151529252506,209
+"Superior colliculus, sensory related",9,10,0.7244576440782611,209
+"Superior colliculus, sensory related",10,11,0.7226722382942248,209
+Inferior colliculus,1,2,0.7382064503083612,209
+Inferior colliculus,2,3,0.7365336480739098,209
+Inferior colliculus,3,4,0.7348550012288031,209
+Inferior colliculus,4,5,0.7331498886965125,209
+Inferior colliculus,5,6,0.7314593921792345,209
+Inferior colliculus,6,7,0.7297317047708529,209
+Inferior colliculus,7,8,0.7279872231328542,209
+Inferior colliculus,8,9,0.7262151529252506,209
+Inferior colliculus,9,10,0.7244576440782611,209
+Inferior colliculus,10,11,0.7226722382942248,209
+Nucleus sagulum,1,2,0.7382064503083612,209
+Nucleus sagulum,2,3,0.7365336480739098,209
+Nucleus sagulum,3,4,0.7348550012288031,209
+Nucleus sagulum,4,5,0.7331498886965125,209
+Nucleus sagulum,5,6,0.7314593921792345,209
+Nucleus sagulum,6,7,0.7297317047708529,209
+Nucleus sagulum,7,8,0.7279872231328542,209
+Nucleus sagulum,8,9,0.7262151529252506,209
+Nucleus sagulum,9,10,0.7244576440782611,209
+Nucleus sagulum,10,11,0.7226722382942248,209
+Ventral tegmental area,1,2,0.7382064503083612,209
+Ventral tegmental area,2,3,0.7365336480739098,209
+Ventral tegmental area,3,4,0.7348550012288031,209
+Ventral tegmental area,4,5,0.7331498886965125,209
+Ventral tegmental area,5,6,0.7314593921792345,209
+Ventral tegmental area,6,7,0.7297317047708529,209
+Ventral tegmental area,7,8,0.7279872231328542,209
+Ventral tegmental area,8,9,0.7262151529252506,209
+Ventral tegmental area,9,10,0.7244576440782611,209
+Ventral tegmental area,10,11,0.7226722382942248,209
+Midbrain reticular nucleus,1,2,0.7382064503083612,209
+Midbrain reticular nucleus,2,3,0.7365336480739098,209
+Midbrain reticular nucleus,3,4,0.7348550012288031,209
+Midbrain reticular nucleus,4,5,0.7331498886965125,209
+"Superior colliculus, motor related",1,2,0.7382064503083612,209
+"Superior colliculus, motor related",2,3,0.7365336480739098,209
+Periaqueductal gray,1,2,0.7382064503083612,209
+Periaqueductal gray,2,3,0.7365336480739098,209
+Periaqueductal gray,3,4,0.7348550012288031,209
+Periaqueductal gray,4,5,0.7331498886965125,209
+Periaqueductal gray,5,6,0.7314593921792345,209
+Periaqueductal gray,6,7,0.7297317047708529,209
+Periaqueductal gray,7,8,0.7279872231328542,209
+Periaqueductal gray,8,9,0.7262151529252506,209
+Anterior pretectal nucleus,1,2,0.7382064503083612,209
+Anterior pretectal nucleus,2,3,0.7365336480739098,209
+Anterior pretectal nucleus,3,4,0.7348550012288031,209
+Anterior pretectal nucleus,4,5,0.7331498886965125,209
+Anterior pretectal nucleus,5,6,0.7314593921792345,209
+Anterior pretectal nucleus,6,7,0.7297317047708529,209
+Anterior pretectal nucleus,7,8,0.7279872231328542,209
+Anterior pretectal nucleus,8,9,0.7262151529252506,209
+Anterior pretectal nucleus,9,10,0.7244576440782611,209
+Anterior pretectal nucleus,10,11,0.7226722382942248,209
+Red nucleus,1,2,0.7382064503083612,209
+Red nucleus,2,3,0.7365336480739098,209
+Red nucleus,3,4,0.7348550012288031,209
+Red nucleus,4,5,0.7331498886965125,209
+Red nucleus,5,6,0.7314593921792345,209
+Red nucleus,6,7,0.7297317047708529,209
+Red nucleus,7,8,0.7279872231328542,209
+Red nucleus,8,9,0.7262151529252506,209
+Red nucleus,9,10,0.7244576440782611,209
+Red nucleus,10,11,0.7226722382942248,209
+Interpeduncular nucleus,1,2,0.7382064503083612,209
+Interpeduncular nucleus,2,3,0.7365336480739098,209
+Interpeduncular nucleus,3,4,0.7348550012288031,209
+Interpeduncular nucleus,4,5,0.7331498886965125,209
+Interpeduncular nucleus,5,6,0.7314593921792345,209
+Interpeduncular nucleus,6,7,0.7297317047708529,209
+Interpeduncular nucleus,7,8,0.7279872231328542,209
+Interpeduncular nucleus,8,9,0.7262151529252506,209
+Interpeduncular nucleus,9,10,0.7244576440782611,209
+Interpeduncular nucleus,10,11,0.7226722382942248,209
+Central linear nucleus raphe,1,2,0.7382064503083612,209
+Central linear nucleus raphe,2,3,0.7365336480739098,209
+Central linear nucleus raphe,3,4,0.7348550012288031,209
+Central linear nucleus raphe,4,5,0.7331498886965125,209
+Central linear nucleus raphe,5,6,0.7314593921792345,209
+Central linear nucleus raphe,6,7,0.7297317047708529,209
+Central linear nucleus raphe,7,8,0.7279872231328542,209
+Central linear nucleus raphe,8,9,0.7262151529252506,209
+Central linear nucleus raphe,9,10,0.7244576440782611,209
+Central linear nucleus raphe,10,11,0.7226722382942248,209
+Dorsal nucleus raphe,1,2,0.7382064503083612,209
+Dorsal nucleus raphe,2,3,0.7365336480739098,209
+Dorsal nucleus raphe,3,4,0.7348550012288031,209
+Dorsal nucleus raphe,4,5,0.7331498886965125,209
+Dorsal nucleus raphe,5,6,0.7314593921792345,209
+Dorsal nucleus raphe,6,7,0.7297317047708529,209
+Dorsal nucleus raphe,7,8,0.7279872231328542,209
+Dorsal nucleus raphe,8,9,0.7262151529252506,209
+Dorsal nucleus raphe,9,10,0.7244576440782611,209
+Dorsal nucleus raphe,10,11,0.7226722382942248,209
+Parabrachial nucleus,1,2,0.7382064503083612,209
+Parabrachial nucleus,2,3,0.7365336480739098,209
+Parabrachial nucleus,3,4,0.7348550012288031,209
+Parabrachial nucleus,4,5,0.7331498886965125,209
+Parabrachial nucleus,5,6,0.7314593921792345,209
+Parabrachial nucleus,6,7,0.7297317047708529,209
+Parabrachial nucleus,7,8,0.7279872231328542,209
+Parabrachial nucleus,8,9,0.7262151529252506,209
+Parabrachial nucleus,9,10,0.7244576440782611,209
+Parabrachial nucleus,10,11,0.7226722382942248,209
+Superior olivary complex,1,2,0.7382064503083612,209
+Superior olivary complex,2,3,0.7365336480739098,209
+Superior olivary complex,3,4,0.7348550012288031,209
+Superior olivary complex,4,5,0.7331498886965125,209
+Superior olivary complex,5,6,0.7314593921792345,209
+Superior olivary complex,6,7,0.7297317047708529,209
+Superior olivary complex,7,8,0.7279767158407935,209
+Superior olivary complex,8,9,0.7262363044122002,209
+Superior olivary complex,9,10,0.7244682889442422,209
+Superior olivary complex,10,11,0.7227258116361298,209
+Pontine gray,1,2,0.7382064503083612,209
+Pontine gray,2,3,0.7365336480739098,209
+Pontine gray,3,4,0.7348550012288031,209
+Pontine gray,4,5,0.7331498886965125,209
+Pontine gray,5,6,0.7314593921792345,209
+Pontine gray,6,7,0.7297317047708529,209
+Pontine gray,7,8,0.7279872231328542,209
+Pontine gray,8,9,0.7262151529252506,209
+Pontine gray,9,10,0.7244576440782611,209
+Pontine gray,10,11,0.7226722382942248,209
+"Pontine reticular nucleus, caudal part",1,2,0.7382064503083612,209
+"Pontine reticular nucleus, caudal part",2,3,0.7365336480739098,209
+"Pontine reticular nucleus, caudal part",3,4,0.7348550012288031,209
+"Pontine reticular nucleus, caudal part",4,5,0.7331498886965125,209
+"Pontine reticular nucleus, caudal part",5,6,0.7314593921792345,209
+"Pontine reticular nucleus, caudal part",6,7,0.7297317047708529,209
+"Pontine reticular nucleus, caudal part",7,8,0.7279872231328542,209
+"Pontine reticular nucleus, caudal part",8,9,0.7262151529252506,209
+"Pontine reticular nucleus, caudal part",9,10,0.7244576440782611,209
+"Pontine reticular nucleus, caudal part",10,11,0.7226722382942248,209
+Laterodorsal tegmental nucleus,1,2,0.7382064503083612,209
+Laterodorsal tegmental nucleus,2,3,0.7365336480739098,209
+Laterodorsal tegmental nucleus,3,4,0.7348550012288031,209
+Laterodorsal tegmental nucleus,4,5,0.7331498886965125,209
+Laterodorsal tegmental nucleus,5,6,0.7314593921792345,209
+Laterodorsal tegmental nucleus,6,7,0.7297317047708529,209
+Laterodorsal tegmental nucleus,7,8,0.7279872231328542,209
+Laterodorsal tegmental nucleus,8,9,0.7262151529252506,209
+Laterodorsal tegmental nucleus,9,10,0.7244576440782611,209
+Laterodorsal tegmental nucleus,10,11,0.7226722382942248,209
+Nucleus incertus,1,2,0.7382064503083612,209
+Nucleus incertus,2,3,0.7365336480739098,209
+Nucleus incertus,3,4,0.7348550012288031,209
+Nucleus incertus,4,5,0.7331498886965125,209
+Nucleus incertus,5,6,0.7314593921792345,209
+Nucleus incertus,6,7,0.7297317047708529,209
+Nucleus incertus,7,8,0.7279872231328542,209
+Nucleus incertus,8,9,0.7262151529252506,209
+Nucleus incertus,9,10,0.7244576440782611,209
+Nucleus incertus,10,11,0.7226722382942248,209
+Dorsal cochlear nucleus,1,2,0.7382064503083612,209
+Dorsal cochlear nucleus,2,3,0.7365336480739098,209
+Dorsal cochlear nucleus,3,4,0.7348550012288031,209
+Dorsal cochlear nucleus,4,5,0.7331498886965125,209
+Dorsal cochlear nucleus,5,6,0.7314593921792345,209
+Dorsal cochlear nucleus,6,7,0.7297317047708529,209
+Dorsal cochlear nucleus,7,8,0.7279872231328542,209
+Dorsal cochlear nucleus,8,9,0.7262151529252506,209
+Dorsal cochlear nucleus,9,10,0.7244576440782611,209
+Dorsal cochlear nucleus,10,11,0.7226722382942248,209
+Ventral cochlear nucleus,1,2,0.7382064503083612,209
+Ventral cochlear nucleus,2,3,0.7365336480739098,209
+Ventral cochlear nucleus,3,4,0.7348550012288031,209
+Ventral cochlear nucleus,4,5,0.7331498886965125,209
+Ventral cochlear nucleus,5,6,0.7314593921792345,209
+Ventral cochlear nucleus,6,7,0.7297317047708529,209
+Ventral cochlear nucleus,7,8,0.7279872231328542,209
+Ventral cochlear nucleus,8,9,0.7262151529252506,209
+Ventral cochlear nucleus,9,10,0.7244576440782611,209
+Ventral cochlear nucleus,10,11,0.7226722382942248,209
+Nucleus of the solitary tract,1,2,0.7382064503083612,209
+Nucleus of the solitary tract,2,3,0.7365336480739098,209
+Nucleus of the solitary tract,3,4,0.7348550012288031,209
+Nucleus of the solitary tract,4,5,0.7331498886965125,209
+Nucleus of the solitary tract,5,6,0.7314593921792345,209
+Nucleus of the solitary tract,6,7,0.7297317047708529,209
+Nucleus of the solitary tract,7,8,0.7279872231328542,209
+Nucleus of the solitary tract,8,9,0.7262151529252506,209
+Nucleus of the solitary tract,9,10,0.7244576440782611,209
+Nucleus of the solitary tract,10,11,0.7226722382942248,209
+"Spinal nucleus of the trigeminal, caudal part",1,2,0.7382064503083612,209
+"Spinal nucleus of the trigeminal, caudal part",2,3,0.7365336480739098,209
+"Spinal nucleus of the trigeminal, caudal part",3,4,0.7348550012288031,209
+"Spinal nucleus of the trigeminal, caudal part",4,5,0.7331498886965125,209
+"Spinal nucleus of the trigeminal, caudal part",5,6,0.7314593921792345,209
+"Spinal nucleus of the trigeminal, caudal part",6,7,0.7297317047708529,209
+"Spinal nucleus of the trigeminal, caudal part",7,8,0.7279872231328542,209
+"Spinal nucleus of the trigeminal, caudal part",8,9,0.7262151529252506,209
+"Spinal nucleus of the trigeminal, caudal part",9,10,0.7244576440782611,209
+"Spinal nucleus of the trigeminal, caudal part",10,11,0.7226722382942248,209
+Gigantocellular reticular nucleus,1,2,0.7382064503083612,209
+Gigantocellular reticular nucleus,2,3,0.7365336480739098,209
+Gigantocellular reticular nucleus,3,4,0.7348550012288031,209
+Gigantocellular reticular nucleus,4,5,0.7331498886965125,209
+Gigantocellular reticular nucleus,5,6,0.7314593921792345,209
+Gigantocellular reticular nucleus,6,7,0.7297317047708529,209
+Gigantocellular reticular nucleus,7,8,0.7279872231328542,209
+Gigantocellular reticular nucleus,8,9,0.7262151529252506,209
+Gigantocellular reticular nucleus,9,10,0.7244576440782611,209
+Gigantocellular reticular nucleus,10,11,0.7226722382942248,209
+Inferior olivary complex,1,2,0.7382064503083612,209
+Inferior olivary complex,2,3,0.7365336480739098,209
+Inferior olivary complex,3,4,0.7348550012288031,209
+Inferior olivary complex,4,5,0.7331498886965125,209
+Inferior olivary complex,5,6,0.7314593921792345,209
+Inferior olivary complex,6,7,0.7297317047708529,209
+Inferior olivary complex,7,8,0.7279872231328542,209
+Inferior olivary complex,8,9,0.7262151529252506,209
+Inferior olivary complex,9,10,0.7244576440782611,209
+Inferior olivary complex,10,11,0.7226722382942248,209
+Intermediate reticular nucleus,1,2,0.7382064503083612,209
+Intermediate reticular nucleus,2,3,0.7365336480739098,209
+Intermediate reticular nucleus,3,4,0.7348550012288031,209
+Intermediate reticular nucleus,4,5,0.7331498886965125,209
+Intermediate reticular nucleus,5,6,0.7314593921792345,209
+Intermediate reticular nucleus,6,7,0.7297317047708529,209
+Intermediate reticular nucleus,7,8,0.7279872231328542,209
+Intermediate reticular nucleus,8,9,0.7262151529252506,209
+Intermediate reticular nucleus,9,10,0.7244576440782611,209
+Intermediate reticular nucleus,10,11,0.7226722382942248,209
+Medullary reticular nucleus,1,2,0.7382064503083612,209
+Medullary reticular nucleus,2,3,0.7365336480739098,209
+Medullary reticular nucleus,3,4,0.7348550012288031,209
+Medullary reticular nucleus,4,5,0.7331498886965125,209
+Medullary reticular nucleus,5,6,0.7314593921792345,209
+Medullary reticular nucleus,6,7,0.7297317047708529,209
+Medullary reticular nucleus,7,8,0.7279872231328542,209
+Medullary reticular nucleus,8,9,0.7262151529252506,209
+Medullary reticular nucleus,9,10,0.7244576440782611,209
+Medullary reticular nucleus,10,11,0.7226722382942248,209
+Parvicellular reticular nucleus,1,2,0.7382064503083612,209
+Parvicellular reticular nucleus,2,3,0.7365336480739098,209
+Parvicellular reticular nucleus,3,4,0.7348550012288031,209
+Parvicellular reticular nucleus,4,5,0.7331498886965125,209
+Parvicellular reticular nucleus,5,6,0.7314593921792345,209
+Parvicellular reticular nucleus,6,7,0.7297317047708529,209
+Parvicellular reticular nucleus,7,8,0.7279767158407935,209
+Parvicellular reticular nucleus,8,9,0.7262363044122002,209
+Parvicellular reticular nucleus,9,10,0.7244682889442422,209
+Parvicellular reticular nucleus,10,11,0.7226615236258438,209
+Spinal vestibular nucleus,1,2,0.7382064503083612,209
+Spinal vestibular nucleus,2,3,0.7365336480739098,209
+Spinal vestibular nucleus,3,4,0.7348550012288031,209
+Spinal vestibular nucleus,4,5,0.7331498886965125,209
+Spinal vestibular nucleus,5,6,0.7314593921792345,209
+Spinal vestibular nucleus,6,7,0.7297317047708529,209
+Spinal vestibular nucleus,7,8,0.7279872231328542,209
+Spinal vestibular nucleus,8,9,0.7262151529252506,209
+Spinal vestibular nucleus,9,10,0.7244576440782611,209
+Spinal vestibular nucleus,10,11,0.7226722382942248,209
+Hypoglossal nucleus,1,2,0.7382064503083612,209
+Hypoglossal nucleus,2,3,0.7365336480739098,209
+Hypoglossal nucleus,3,4,0.7348550012288031,209
+Hypoglossal nucleus,4,5,0.7331498886965125,209
+Hypoglossal nucleus,5,6,0.7314593921792345,209
+Hypoglossal nucleus,6,7,0.7297317047708529,209
+Hypoglossal nucleus,7,8,0.7279872231328542,209
+Hypoglossal nucleus,8,9,0.7262151529252506,209
+Hypoglossal nucleus,9,10,0.7244576440782611,209
+Hypoglossal nucleus,10,11,0.7226722382942248,209
+Nucleus raphe obscurus,1,2,0.7382064503083612,209
+Nucleus raphe obscurus,2,3,0.7365336480739098,209
+Nucleus raphe obscurus,3,4,0.7348550012288031,209
+Nucleus raphe obscurus,4,5,0.7331498886965125,209
+Nucleus raphe obscurus,5,6,0.7314593921792345,209
+Nucleus raphe obscurus,6,7,0.7297317047708529,209
+Nucleus raphe obscurus,7,8,0.7279872231328542,209
+Nucleus raphe obscurus,8,9,0.7262151529252506,209
+Nucleus raphe obscurus,9,10,0.7244576440782611,209
+Nucleus raphe obscurus,10,11,0.7226722382942248,209
+Ansiform lobule,1,2,0.7382064503083612,209
+Ansiform lobule,2,3,0.7365336480739098,209
+Ansiform lobule,3,4,0.7348550012288031,209
+Ansiform lobule,4,5,0.7331498886965125,209
+Ansiform lobule,5,6,0.7314593921792345,209
+Ansiform lobule,6,7,0.7297317047708529,209
+Ansiform lobule,7,8,0.7279872231328542,209
+Ansiform lobule,8,9,0.7262151529252506,209
+Ansiform lobule,9,10,0.7244576440782611,209
+Ansiform lobule,10,11,0.7226722382942248,209
+Paraflocculus,1,2,0.7382064503083612,209
+Paraflocculus,2,3,0.7365336480739098,209
+Paraflocculus,3,4,0.7348550012288031,209
+Paraflocculus,4,5,0.7331498886965125,209
+Paraflocculus,5,6,0.7314593921792345,209
+Paraflocculus,6,7,0.7297317047708529,209
+Paraflocculus,7,8,0.7279872231328542,209
+Paraflocculus,8,9,0.7262151529252506,209
+Paraflocculus,9,10,0.7244576440782611,209
+Paraflocculus,10,11,0.7226722382942248,209
+Interposed nucleus,1,2,0.7382064503083612,209
+Interposed nucleus,2,3,0.7365336480739098,209
+Interposed nucleus,3,4,0.7348550012288031,209
+Interposed nucleus,4,5,0.7331498886965125,209
+Interposed nucleus,5,6,0.7314593921792345,209
+Interposed nucleus,6,7,0.7297317047708529,209
+Interposed nucleus,7,8,0.7279872231328542,209
+Interposed nucleus,8,9,0.7262151529252506,209
+Interposed nucleus,9,10,0.7244576440782611,209
+Interposed nucleus,10,11,0.7226722382942248,209
+Dentate nucleus,1,2,0.7382064503083612,209
+Dentate nucleus,2,3,0.7365438228770274,209
+Dentate nucleus,3,4,0.7348550012288031,209
+Dentate nucleus,4,5,0.7331808063319317,209
+Dentate nucleus,5,6,0.7314593921792345,209
+Dentate nucleus,6,7,0.7297525837770122,209
+Dentate nucleus,7,8,0.7279977304249149,209
+Dentate nucleus,8,9,0.726289183129574,209
+Dentate nucleus,9,10,0.7245640927380724,209
+Dentate nucleus,10,11,0.722865102325083,209

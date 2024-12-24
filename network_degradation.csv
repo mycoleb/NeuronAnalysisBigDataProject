@@ -1,0 +1,51 @@
+step,removed_region,nodes_remaining,edges_remaining,components
+0,Primary visual area,316,28913,209
+1,Secondary motor area,315,28491,209
+2,"Superior colliculus, motor related",314,28073,209
+3,posteromedial visual area,313,27655,209
+4,Prelimbic area,312,27241,209
+5,"Tuberomammillary nucleus, ventral part",311,26829,209
+6,"Anterior cingulate area, dorsal part",310,26418,209
+7,Midbrain reticular nucleus,309,26014,209
+8,"Entorhinal area, lateral part",308,25607,209
+9,Subiculum,307,25210,209
+10,Periaqueductal gray,306,24809,209
+11,Interpeduncular nucleus,305,24409,209
+12,"Retrosplenial area, ventral part",304,24016,209
+13,"Orbital area, medial part",303,23626,209
+14,"Agranular insular area, ventral part",302,23240,209
+15,Medial amygdalar nucleus,301,22864,209
+16,Caudoputamen,300,22475,209
+17,Visceral area,299,22094,209
+18,Anteromedial visual area,298,21713,209
+19,Lateral hypothalamic area,297,21336,209
+20,Rostrolateral visual area,296,20955,209
+21,"Agranular insular area, dorsal part",295,20581,209
+22,"Retrosplenial area, lateral agranular part",294,20229,209
+23,Ventral part of the lateral geniculate complex,293,19869,209
+24,Nucleus accumbens,292,19499,209
+25,"Primary somatosensory area, barrel field",291,19134,209
+26,Anterolateral visual area,290,18783,209
+27,Dentate gyrus,289,18435,209
+28,Gustatory areas,288,18086,209
+29,Parabrachial nucleus,287,17749,209
+30,Posterior hypothalamic nucleus,286,17395,209
+31,Supplemental somatosensory area,285,17044,209
+32,Ventral tegmental area,284,16719,209
+33,Mediodorsal nucleus of thalamus,283,16371,209
+34,Central amygdalar nucleus,282,16029,209
+35,Arcuate hypothalamic nucleus,281,15688,209
+36,Spinal vestibular nucleus,280,15350,209
+37,Anterior amygdalar area,279,15040,209
+38,Postrhinal area,278,14706,209
+39,Piriform area,277,14389,209
+40,Dorsal auditory area,276,14086,209
+41,"Primary somatosensory area, mouth",275,13784,209
+42,Ventral premammillary nucleus,274,13490,209
+43,Substantia innominata,273,13164,209
+44,"Retrosplenial area, dorsal part",272,12861,209
+45,Bed nuclei of the stria terminalis,271,12575,209
+46,Dorsal peduncular area,270,12264,209
+47,Ventral cochlear nucleus,269,12002,209
+48,Medullary reticular nucleus,268,11734,209
+49,Taenia tecta,267,11424,209
