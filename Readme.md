@@ -8,7 +8,9 @@ You need to be in the (brain_connectivity) environment for this to work.
 First, setup and verify the data:
 
 Run setup_cache.py to initialize the Allen Brain Atlas connection
+
 Run test_connection.py to verify the SDK is working
+
 Run verify_data.py to check your database and connectivity matrix
 
 
