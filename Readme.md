@@ -26,6 +26,7 @@ Run advanced_analysis.py for detailed network metrics and small-world properties
 Visualizations and results:
 
 Run seaborn_visualize.py for comprehensive static and interactive visualizations
+
 Run generate_report.py to create a final HTML report summarizing all findings
 ## Executive Summary
 This project analyzes how different regions of the mouse brain are connected to each other using data from the Allen Brain Atlas. Understanding these connections is crucial for neuroscience research as it helps reveal:
