@@ -17,7 +17,9 @@ Run verify_data.py to check your database and connectivity matrix
 Main analysis pipeline:
 
 Run fetch_sql.py to get the latest connectivity data
+
 Run analyze_patterns.py to get a basic overview of connectivity patterns
+
 Run advanced_analysis.py for detailed network metrics and small-world properties
 
 
