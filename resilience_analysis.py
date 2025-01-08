@@ -128,6 +128,122 @@ def visualize_degradation(df):
     
     fig.write_html('degradation_analysis.html')
 
+def analyze_resilience(self):
+    """
+    Analyze network resilience through multiple metrics:
+    - Attack tolerance (targeted vs random removal)
+    - Topological resilience
+    - Path redundancy
+    - Critical node identification
+    """
+    print("Analyzing network resilience...")
+    results = []
+    
+    # Analyze different attack strategies
+    n_removals = min(50, len(self.regions))  # Don't remove more nodes than we have
+    
+    # 1. Random failure analysis
+    for trial in range(5):  # Multiple trials for random removal
+        G_temp = self.G_directed.copy()
+        nodes = list(G_temp.nodes())
+        np.random.shuffle(nodes)
+        
+        for i in range(n_removals):
+            if len(G_temp) < 2:
+                break
+                
+            metrics = self._calculate_resilience_metrics(G_temp, f'random_trial_{trial}', i)
+            results.append(metrics)
+            G_temp.remove_node(nodes[i])
+    
+    # 2. Targeted attack analysis (highest degree first)
+    G_temp = self.G_directed.copy()
+    nodes_by_degree = sorted(dict(G_temp.degree()).items(), 
+                           key=lambda x: x[1], 
+                           reverse=True)
+    
+    for i in range(n_removals):
+        if len(G_temp) < 2:
+            break
+            
+        metrics = self._calculate_resilience_metrics(G_temp, 'targeted_attack', i)
+        results.append(metrics)
+        
+        if nodes_by_degree:
+            node_to_remove = nodes_by_degree.pop(0)[0]
+            G_temp.remove_node(node_to_remove)
+            
+    return pd.DataFrame(results)
+
+def _calculate_resilience_metrics(self, G, strategy, step):
+    """Calculate comprehensive resilience metrics for the current network state."""
+    metrics = {
+        'strategy': strategy,
+        'step': step,
+        'nodes_remaining': G.number_of_nodes(),
+        'edges_remaining': G.number_of_edges(),
+        'components': len(list(nx.strongly_connected_components(G))),
+        'avg_path_length': -1,  # Default value if calculation fails
+        'efficiency': -1,
+        'clustering': -1
+    }
+    
+    # Calculate additional metrics safely
+    try:
+        # Convert to undirected for some metrics
+        G_undir = G.to_undirected()
+        
+        # Network efficiency
+        metrics['efficiency'] = nx.global_efficiency(G_undir)
+        
+        # Average clustering
+        metrics['clustering'] = nx.average_clustering(G_undir)
+        
+        # Average path length (if network is still connected)
+        if nx.is_strongly_connected(G):
+            metrics['avg_path_length'] = nx.average_shortest_path_length(G)
+            
+    except:
+        pass  # Keep default values if calculations fail
+        
+    return metrics
+
+def visualize_resilience(df):
+    """Create interactive visualization of resilience analysis."""
+    print("Creating resilience visualizations...")
+    
+    # Create interactive plot with multiple metrics
+    fig = go.Figure()
+    
+    # Plot efficiency for different strategies
+    for strategy in df['strategy'].unique():
+        strategy_data = df[df['strategy'] == strategy]
+        
+        # Efficiency plot
+        fig.add_trace(go.Scatter(
+            x=strategy_data['step'],
+            y=strategy_data['efficiency'],
+            name=f'{strategy} - Efficiency',
+            mode='lines',
+            line=dict(dash='solid' if 'targeted' in strategy else 'dot')
+        ))
+    
+    fig.update_layout(
+        title='Network Resilience Analysis',
+        xaxis_title='Number of Nodes Removed',
+        yaxis_title='Global Efficiency',
+        hovermode='x unified',
+        showlegend=True,
+        legend=dict(
+            yanchor="top",
+            y=0.99,
+            xanchor="left",
+            x=0.01
+        )
+    )
+    
+    # Save interactive visualization
+    fig.write_html('resilience_analysis.html')
 def main():
     print("Loading data...")
     matrix = np.load('connectivity_matrix.npy')
@@ -145,19 +261,33 @@ def main():
     degradation_df = analyzer.analyze_network_degradation()
     degradation_df.to_csv('network_degradation.csv', index=False)
     
+    # Analyze network resilience (new!)
+    resilience_df = analyzer.analyze_resilience()
+    resilience_df.to_csv('resilience_metrics.csv', index=False)
+    
     # Create visualizations
     visualize_degradation(degradation_df)
+    visualize_resilience(resilience_df)
     
     print("\nAnalysis complete! Files created:")
     print("- node_importance.csv")
     print("- network_degradation.csv")
     print("- network_degradation.png")
     print("- degradation_analysis.html")
+    print("- resilience_analysis.html")
+    print("- resilience_metrics.csv")
     
-    # Print top 5 most important nodes
-    print("\nTop 5 most important nodes (by betweenness centrality):")
-    top_nodes = importance_df.nlargest(5, 'betweenness')
-    print(top_nodes[['region', 'betweenness']].to_string())
+    # Print summary statistics
+    print("\nResilience Summary:")
+    baseline_efficiency = resilience_df[resilience_df['step'] == 0]['efficiency'].mean()
+    final_efficiency_targeted = resilience_df[
+        (resilience_df['strategy'] == 'targeted_attack') & 
+        (resilience_df['step'] == resilience_df['step'].max())
+    ]['efficiency'].iloc[0]
+    
+    print(f"Baseline network efficiency: {baseline_efficiency:.4f}")
+    print(f"Efficiency after targeted attack: {final_efficiency_targeted:.4f}")
+    print(f"Efficiency decrease: {((baseline_efficiency - final_efficiency_targeted)/baseline_efficiency)*100:.1f}%")
 
 if __name__ == "__main__":
     main()
