@@ -1,4 +1,5 @@
-#seaborn_visualize.py
+# use the line below to run this in VS code and other IDEs.
+# python seaborn_visualize.py
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
