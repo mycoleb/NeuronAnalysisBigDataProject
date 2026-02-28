@@ -188,7 +188,7 @@ def _calculate_resilience_metrics(self, G, strategy, step):
         'clustering': -1
     }
     
-    # Calculate additional metrics safely
+    # Calculate additional metrics
     try:
         # Convert to undirected for some metrics
         G_undir = G.to_undirected()
@@ -261,7 +261,7 @@ def main():
     degradation_df = analyzer.analyze_network_degradation()
     degradation_df.to_csv('network_degradation.csv', index=False)
     
-    # Analyze network resilience (new!)
+    # Analyze network resilience
     resilience_df = analyzer.analyze_resilience()
     resilience_df.to_csv('resilience_metrics.csv', index=False)
     
