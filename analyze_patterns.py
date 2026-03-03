@@ -9,7 +9,7 @@ class ConnectivityAnalyzer:
                  regions_path: str = 'region_names.txt',
                  db_path: str = 'brain_connectivity.db'):
         """
-        Initialize the ConnectivityAnalyzer with paths to required data files.
+        Initialize the ConnectivityAnalyzer with paths to the data files.
         
         Args:
             matrix_path: Path to the connectivity matrix .npy file
@@ -123,14 +123,14 @@ def main():
         # Initialize analyzer
         analyzer = ConnectivityAnalyzer()
         
-        # Get overall statistics
+        # Get an overview of the statistics
         stats = analyzer.get_network_statistics()
         print("\nNetwork Statistics:")
         print("-" * 80)
         for metric, value in stats.items():
             print(f"{metric}: {value:.6f}")
         
-        # Get strongest connections
+        # Get the strongest connections
         print("\nTop Connections:")
         print("-" * 80)
         connections = analyzer.find_strongest_connections()
@@ -147,14 +147,14 @@ def main():
             ['Region', 'Outgoing_Connections', 'Incoming_Connections']
         ].to_string())
         
-        # Show strongest regions
+        # Show the strongest regions
         print("\nStrongest Regions (by connection strength):")
         print("-" * 80)
         print(region_stats.nlargest(10, 'Total_Outgoing_Strength')[
             ['Region', 'Total_Outgoing_Strength', 'Total_Incoming_Strength']
         ].to_string())
         
-        # Save results
+        # Save the results
         connections.to_csv('top_connections.csv', index=False)
         region_stats.to_csv('connectivity_statistics.csv', index=False)
         pd.DataFrame([stats]).to_csv('network_statistics.csv', index=False)
