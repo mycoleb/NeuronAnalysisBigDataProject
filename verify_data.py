@@ -3,10 +3,11 @@ import numpy as np
 
 def verify_database():
     # Connect to the database
+    print("Verifying database")
     conn = sqlite3.connect('brain_connectivity.db')
     c = conn.cursor()
     
-    # Check regions table
+    # Check the regions table
     c.execute('SELECT COUNT(*) FROM regions')
     region_count = c.fetchone()[0]
     print(f"\nNumber of regions in database: {region_count}")
@@ -22,7 +23,7 @@ def verify_database():
                  JOIN regions r1 ON c.source_id = r1.id 
                  JOIN regions r2 ON c.target_id = r2.id 
                  LIMIT 5''')
-    print("\nSample connections:")
+    print("\n The sample connections:")
     for row in c.fetchall():
         print(f"{row[0]} -> {row[1]}: {row[2]}")
     
