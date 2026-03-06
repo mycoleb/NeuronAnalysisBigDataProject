@@ -53,7 +53,7 @@ class OptimizedNetworkAnalysis:
             except:
                 random_L.append(np.inf)
         
-        # Calculate small-world coefficients
+        # Calculate small world coefficients
         C_rand = np.mean(random_C)
         L_rand = np.mean([l for l in random_L if l != np.inf])
         
@@ -101,16 +101,39 @@ class OptimizedNetworkAnalysis:
        
     
     def perform_statistical_tests(self):
-        """Perform essential statistical tests on network properties."""
+        """Perform important statistical tests on network properties."""
         print("Performing statistical tests...")
         
         results = {}
         
         # Test for scale-free properties
+        Scale-free property means the network’s degree distribution follows, or approximately follows, a power law.
+
+#That means:
+#most nodes have few connections
+
+#a small number of nodes have many connections
+
+#those very connected nodes are called hubs
+
+#Examples often described as roughly scale-free:
+
+#some internet/router networks
+
+#citation networks
+
+#some biological interaction networks
         degrees = [d for n, d in self.G_directed.degree()]
         results['degree_normality'] = stats.normaltest(degrees)
         
         # Test for degree assortativity
+       # Degree assortativity is a measure of whether nodes tend to connect to other nodes with similar degree.
+
+        #Positive assortativity: high-degree nodes connect to high-degree nodes, and low-degree nodes connect to low-degree nodes.
+
+        #Negative assortativity: high-degree nodes connect more often to low-degree nodes.
+
+        #Near 0: no strong pattern.
         results['assortativity'] = nx.degree_assortativity_coefficient(self.G_directed)
         
         # Simple community structure test
