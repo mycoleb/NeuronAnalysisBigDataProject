@@ -35,7 +35,7 @@ def analyze_brain_connectivity():
         'path_statistics': path_stats
     }
     
-    # Calculate per-region statistics
+    # Calculate per region statistics
     for region in region_names:
         idx = region_indices[region]
         results['region_metrics'][region] = {
