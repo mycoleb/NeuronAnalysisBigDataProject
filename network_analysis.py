@@ -37,7 +37,7 @@ def analyze_node_removal_impact(matrix, regions, top_n=10):
         'components': len(list(nx.strongly_connected_components(G))),
         'avg_path': nx.average_shortest_path_length(G)
     }
-    
+    #Initialize impact array
     impact_results = []
     for node in range(len(regions)):
         G_temp = G.copy()
