@@ -5,6 +5,7 @@ import pandas as pd
 from typing import Dict, List, Tuple
 
 class BrainConnectivityAnalyzer:
+    print("BrainConnectivityAnalyzer in progress")
     def __init__(self):
         self.graph = nx.DiGraph()
         self.regions = {}
