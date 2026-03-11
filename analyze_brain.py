@@ -4,6 +4,7 @@ from a import BrainConnectivityAnalyzer
 # Load the saved data
 connectivity_matrix = np.load('connectivity_matrix.npy')
 with open('region_names.txt', 'r') as f:
+    print("opening region_names.txt")
     region_names = [line.strip() for line in f]
 
 # Initialize the analyzer
