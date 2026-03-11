@@ -33,6 +33,7 @@ for metric, value in path_stats.items():
 
 # Visualize the network
 analyzer.visualize_network(
+    print("Visualizing network")
     highlight_nodes=critical_nodes,
     node_size_metric='betweenness',
     save_path='brain_network.png'
