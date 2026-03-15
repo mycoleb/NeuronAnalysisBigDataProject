@@ -1,4 +1,4 @@
-# use the line below to run this in VS code and other IDEs.
+# Thanks for looking at my github. Use the line below to run this in VS code and other IDEs. Using it in the CLI without the "#" symbol will help you run my script.
 # python seaborn_visualize.py
 import numpy as np
 import seaborn as sns
