@@ -245,6 +245,7 @@ def visualize_resilience(df):
     # Save interactive visualization
     fig.write_html('resilience_analysis.html')
 def main():
+    print("entering main function")
     print("Loading data...")
     matrix = np.load('connectivity_matrix.npy')
     with open('region_names.txt', 'r') as f:
