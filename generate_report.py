@@ -3,7 +3,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 def generate_html_report():
-    print("Generating comprehensive report...")
+    print("Now generating comprehensive report...")
     
     # HTML template start
     html = f"""
@@ -68,7 +68,7 @@ def generate_html_report():
         html += "<p>Node importance data not found.</p>"
     
     # Resilience Analysis Section
-    print("Adding resilience analysis...")
+    print("Now adding resilience analysis...")
     html += """
         <div class="section">
             <h2>3. Network Resilience Analysis</h2>
