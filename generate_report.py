@@ -43,7 +43,7 @@ def generate_html_report():
     except:
         html += "<p>Network metrics file not found.</p>"
     
-    # Node Importance Section
+    # node Importance Section
     print("Adding node importance analysis...")
     html += """
         <div class="section">
@@ -116,7 +116,7 @@ def generate_html_report():
         </ul>
     """
     
-    # Conclusions Section
+    # conclusions Section
     html += """
         <div class="section">
             <h2>6. Key Findings</h2>
@@ -124,7 +124,7 @@ def generate_html_report():
     """
     
     try:
-        # Add key findings based on available data
+        # add key findings based on available data
         importance = pd.read_csv('node_importance.csv')
         top_node = importance.nlargest(1, 'betweenness').iloc[0]
         html += f"<li>Most critical region: {top_node['region']}</li>"
@@ -140,13 +140,13 @@ def generate_html_report():
         </div>
     """
     
-    # Close HTML
+    # close HTML
     html += """
     </body>
     </html>
     """
     
-    # Save report
+    # save report
     with open('brain_connectivity_report.html', 'w') as f:
         f.write(html)
     
