@@ -3,7 +3,7 @@ import numpy as np
 
 def verify_database():
     # Connect to the database
-    print("Verifying database")
+    print("Now verifying database")
     conn = sqlite3.connect('brain_connectivity.db')
     c = conn.cursor()
     
