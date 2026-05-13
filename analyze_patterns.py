@@ -44,7 +44,7 @@ class ConnectivityAnalyzer:
                 raise ValueError("Number of regions doesn't match matrix dimensions")
             return regions
         except FileNotFoundError:
-            raise FileNotFoundError(f"Could not find region names at {self.regions_path}")
+            raise FileNotFoundError(f"Could not find the region names at {self.regions_path}")
             
     def _connect_db(self) -> sqlite3.Connection:
         """Establish database connection."""
